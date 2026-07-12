@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-12T08:09:15Z",
+ "generated_at": "2026-07-12T08:26:38Z",
  "build_label": "FULL_BUILD",
  "mode": "production",
  "county": "Harris County",
@@ -13,7 +13,8 @@
  "pattern_counts": {
   "estate": 2,
   "foreclosure": 229,
-  "tax": 393,
+  "lien": 24,
+  "tax": 369,
   "transfer": 56
  },
  "attribute_counts": {},
@@ -22,8 +23,8 @@
   "2": 1
  },
  "score_tier_distribution": {
-  "Archive": 56,
-  "Low": 348,
+  "Archive": 80,
+  "Low": 324,
   "Workable": 275
  },
  "deal_path_distribution": {
@@ -29034,20 +29035,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-96894",
-   "scored_lead_id": "scored_7c5e42128bebae4f",
+   "scored_lead_id": "scored_ffe3fd6c91054ec5",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "PROPERTY OWNERS ASSOCIATION OF CANYON VILLAGE AT CYPRESS SPRINGS | TOLLETT LUKE P | BANDA ANGELA L | DIAZ ALAN GUTIERREZ",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -29070,12 +29071,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_540048cb9f2bfc23"
+    "ev_4b6ca4bae1a5a75a"
    ],
    "primary_event_date": "03/16/2026",
    "review_flags": [],
@@ -30094,20 +30095,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-97108",
-   "scored_lead_id": "scored_33e3cede428bcd3b",
+   "scored_lead_id": "scored_7eaaaa3bcc33e991",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "S-G OWNERS ASSOCIATION INC | TOLLETT LUKE P | ARMSTRONG CORY",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -30130,12 +30131,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_ea5c164e0b267691"
+    "ev_3f83a6b372c90ce5"
    ],
    "primary_event_date": "03/16/2026",
    "review_flags": [],
@@ -30147,20 +30148,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-97110",
-   "scored_lead_id": "scored_0d81b61b35fcb0bc",
+   "scored_lead_id": "scored_ae3db012dcfdf6a4",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "S-G OWNERS ASSOCIATION INC | TOLLETT LUKE P | HERNANDEZ RUBEN A | RODRIGUEZ PATRICIA J",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -30183,12 +30184,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_a67793f3ec17d7d2"
+    "ev_6c10b1c9f50d38c5"
    ],
    "primary_event_date": "03/16/2026",
    "review_flags": [],
@@ -30200,20 +30201,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-97113",
-   "scored_lead_id": "scored_c34aacd0d36c41b5",
+   "scored_lead_id": "scored_5416f1588819c347",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "PROPERTY OWNERS ASSOCIATION OF CANYON VILLAGE AT CYPRESS SPRINGS | TOLLETT LUKE P | JUAREZ SAUL ALEXANDER | VAZQUEZ MARIA SANTOS HUERTA",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -30236,12 +30237,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_ffb7b1f292d262e0"
+    "ev_191e9e0b26097b1b"
    ],
    "primary_event_date": "03/16/2026",
    "review_flags": [],
@@ -30253,20 +30254,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-97120",
-   "scored_lead_id": "scored_6ee0524b57c64150",
+   "scored_lead_id": "scored_82b14145edbe16e4",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "S-G OWNERS ASSOCIATION INC | TOLLETT LUKE P | TOMPKINS JAMES KENT",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -30289,12 +30290,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_cc266fb3f9b70037"
+    "ev_969e1802c9d31a14"
    ],
    "primary_event_date": "03/16/2026",
    "review_flags": [],
@@ -30306,20 +30307,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-97121",
-   "scored_lead_id": "scored_0c85e2d248c2250a",
+   "scored_lead_id": "scored_61ef3a873929d38b",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "S-G OWNERS ASSOCIATION INC | TOLLETT LUKE P | CEU HNIN | THA ROSY SUI",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -30342,12 +30343,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_ffdfbe2254b17b78"
+    "ev_fb7ea13fd3a58334"
    ],
    "primary_event_date": "03/16/2026",
    "review_flags": [],
@@ -30359,20 +30360,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-97122",
-   "scored_lead_id": "scored_9eb01e53c2816890",
+   "scored_lead_id": "scored_71fb3fc9acefd113",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "S-G OWNERS ASSOCIATION INC | TOLLETT LUKE P | QUEZADA JUAN CARLOS",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -30395,12 +30396,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_bed36b085adecd2b"
+    "ev_82debbbfe4df11f3"
    ],
    "primary_event_date": "03/16/2026",
    "review_flags": [],
@@ -30412,20 +30413,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-97125",
-   "scored_lead_id": "scored_0d078afb61ee30d5",
+   "scored_lead_id": "scored_703d268a1d5a1fd8",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "S-G OWNERS ASSOCIATION INC | TOLLETT LUKE P | EADDY COLLIN J | WOOD KHARA D",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -30448,12 +30449,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_80ec3ddcf61ec477"
+    "ev_e2d9e4546af111e0"
    ],
    "primary_event_date": "03/16/2026",
    "review_flags": [],
@@ -30465,20 +30466,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-97133",
-   "scored_lead_id": "scored_4294f4e8773b158b",
+   "scored_lead_id": "scored_34cc34a0d77b1033",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "INVERNESS HOUSTON PROPERTY OWNERS ASSOCIATION INC | TOLLETT LUKE P | BONIN BENJAMIN SHANE | SORENSEN JESSICA IRENE",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -30501,12 +30502,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_1093d23d34399ca6"
+    "ev_e31eae0b42d5138f"
    ],
    "primary_event_date": "03/16/2026",
    "review_flags": [],
@@ -30518,20 +30519,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-97137",
-   "scored_lead_id": "scored_00606323b1bddab4",
+   "scored_lead_id": "scored_ab1e0970d2ee7f45",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "S-G OWNERS ASSOCIATION INC | TOLLETT LUKE P | WALKER STEPHEN | WALKER TWANA CHARISE",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -30554,12 +30555,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_c246d6a333f2dae3"
+    "ev_749a9850ad54824e"
    ],
    "primary_event_date": "03/16/2026",
    "review_flags": [],
@@ -30571,20 +30572,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-97149",
-   "scored_lead_id": "scored_179466047f286991",
+   "scored_lead_id": "scored_c615e1ddcbc3ac90",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "S-G OWNERS ASSOCIATION INC | TOLLETT LUKE P | PIPHER JARROD",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -30607,12 +30608,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_2f06afc8b0802a16"
+    "ev_299627aeb5bea29a"
    ],
    "primary_event_date": "03/16/2026",
    "review_flags": [],
@@ -30624,20 +30625,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-97155",
-   "scored_lead_id": "scored_fec585e648afd888",
+   "scored_lead_id": "scored_fecb3ee9740b90b1",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "PROPERTY OWNERS ASSOCIATION OF CANYON VILLAGE AT CYPRESS SPRINGS | TOLLETT LUKE P | NORWOOD CARTER",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -30660,12 +30661,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_89c917f67bdd6584"
+    "ev_6c77c1f419616022"
    ],
    "primary_event_date": "03/16/2026",
    "review_flags": [],
@@ -30677,20 +30678,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-97156",
-   "scored_lead_id": "scored_c1bdae921ba73bbd",
+   "scored_lead_id": "scored_2e0c88c3c0f2b4d2",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "EAGLE SPRINGS COMMUNITY ASSOCIATION INC | TOLLETT LUKE P | KIRKPATRICK KATRINA ANN | KIRKPATRICK RICHARD LEE",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -30713,12 +30714,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_fa6b0f56e4390463"
+    "ev_f52f2a573814f9a2"
    ],
    "primary_event_date": "03/16/2026",
    "review_flags": [],
@@ -30730,20 +30731,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-97168",
-   "scored_lead_id": "scored_d5e375ed46286beb",
+   "scored_lead_id": "scored_d01f43b09034f10e",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "NORTHCHASE PROPERTY OWNERS ASSOCIATION INC | TOLLETT LUKE P | PARKWOOD OF NORTHCHASE",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -30766,12 +30767,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_f0c38319649860d8"
+    "ev_e39027dabac9e157"
    ],
    "primary_event_date": "03/16/2026",
    "review_flags": [],
@@ -30783,20 +30784,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-97184",
-   "scored_lead_id": "scored_dc059e8bee479dbe",
+   "scored_lead_id": "scored_db408a8cc68ab138",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "EASTON COMMONS HOMEOWNERS ASSOCIATION | TOLLETT LUKE P | AYALA RICARDO",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -30819,12 +30820,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_b7ee8a22c1be529a"
+    "ev_284a999214e69fdb"
    ],
    "primary_event_date": "03/16/2026",
    "review_flags": [],
@@ -30836,20 +30837,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-97188",
-   "scored_lead_id": "scored_84c3deb497ab3c30",
+   "scored_lead_id": "scored_2d13535f62c3d321",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "SHEFFIELD HOMEOWNERS ASSOCIATION INC | TOLLETT LUKE P | GUZMAN PEDRO",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -30872,12 +30873,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_9905587bd5f9460f"
+    "ev_1932e3924e686b0d"
    ],
    "primary_event_date": "03/16/2026",
    "review_flags": [],
@@ -30889,20 +30890,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-97197",
-   "scored_lead_id": "scored_cda2114e0e3be43e",
+   "scored_lead_id": "scored_01b163bb0b23eb17",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "S-G OWNERS ASSOCIATION INC | GOLDEN VINE INVESTMENTS LLC",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -30925,12 +30926,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_cfced9cccfb0b1a6"
+    "ev_90eac8b5e38845eb"
    ],
    "primary_event_date": "03/16/2026",
    "review_flags": [],
@@ -30942,20 +30943,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-97198",
-   "scored_lead_id": "scored_8f2e6198f5863f7e",
+   "scored_lead_id": "scored_1afc2d0f8f02a691",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "S-G OWNERS ASSOCIATION INC | TOLLETT LUKE P | FERDOUSEE JISAN | HOWARD RICKIE",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -30978,12 +30979,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_6663054695b5f211"
+    "ev_93844f427847df69"
    ],
    "primary_event_date": "03/16/2026",
    "review_flags": [],
@@ -30995,20 +30996,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-97201",
-   "scored_lead_id": "scored_c622b5d58c8a604d",
+   "scored_lead_id": "scored_3912c19151f481cb",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "KINGWOOD GLEN VILLAGE COMMUNITY ASSOCIATION INC | TOLLETT LUKE P | ALDACO JESSICA MARIE",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -31031,12 +31032,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_dfba1cddf8a0b715"
+    "ev_83b689c2c679f59c"
    ],
    "primary_event_date": "03/16/2026",
    "review_flags": [],
@@ -31048,20 +31049,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-97213",
-   "scored_lead_id": "scored_7393792aa5ca5310",
+   "scored_lead_id": "scored_4f06b01b327765e5",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "S-G OWNERS ASSOCIATION INC | TOLLETT LUKE P | GUEVARA RODRIGO ALEXANDER FLORES",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -31084,12 +31085,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_69a0de3b2288d2a7"
+    "ev_b68530f7afd35790"
    ],
    "primary_event_date": "03/16/2026",
    "review_flags": [],
@@ -33433,20 +33434,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-98142",
-   "scored_lead_id": "scored_e41d4edda3cb1228",
+   "scored_lead_id": "scored_a0fed1cde9796e0d",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "DEERFIELD VILLAGE COMMUNITY ASSOCIATION INC | GUTIERREZ NIURIA CARDENAS",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -33469,12 +33470,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_566366102db0b3b3"
+    "ev_4260a35682683007"
    ],
    "primary_event_date": "03/16/2026",
    "review_flags": [],
@@ -33486,20 +33487,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-98143",
-   "scored_lead_id": "scored_c60b8a6a68958c14",
+   "scored_lead_id": "scored_da1cba6d7b05e671",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "DEERFIELD VILLAGE COMMUNITY ASSOCIATION INC | HARRISON MICHAEL WAYNE",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -33522,12 +33523,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_a34da5c0f8f4a437"
+    "ev_f92d463f4c315cb8"
    ],
    "primary_event_date": "03/16/2026",
    "review_flags": [],
@@ -33804,20 +33805,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-98632",
-   "scored_lead_id": "scored_a27b66cd4ea6d325",
+   "scored_lead_id": "scored_40ff812bc1430382",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "CRANBROOK COMMUNITY ASSOCIATION | GERDES SARAH B | EAH CRANBROOK LLC",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -33840,12 +33841,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_134850e139fe1442"
+    "ev_75f4527a64a4a002"
    ],
    "primary_event_date": "03/17/2026",
    "review_flags": [],
@@ -33857,20 +33858,20 @@
   },
   {
    "lead_id": "lead_unresolved_RP-2026-98732",
-   "scored_lead_id": "scored_8476642af4017716",
+   "scored_lead_id": "scored_1be36318f72f4a61",
    "primary_parcel_id": null,
    "display_address": "HCAD acct ",
    "display_owner": "CRANBROOK COMMUNITY ASSOCIATION | GERDES SARAH B | MDA TX EXCELSIOR LLC",
-   "display_score": 45,
-   "display_tier": "Low",
+   "display_score": 20,
+   "display_tier": "Archive",
    "display_patterns": [
-    "tax"
+    "lien"
    ],
    "stack_contrib_patterns": [
-    "tax"
+    "lien"
    ],
    "display_pattern_set": [
-    "tax"
+    "lien"
    ],
    "display_attributes": [],
    "display_deal_paths": [
@@ -33893,12 +33894,12 @@
    "stack_depth": 1,
    "score_reasons": [
     {
-     "factor": "base_STATE_TAX_LIEN",
-     "delta": 45
+     "factor": "base_HOA_LIEN",
+     "delta": 20
     }
    ],
    "evidence_ids": [
-    "ev_959d0f5a242f1490"
+    "ev_275d07902ae08d0c"
    ],
    "primary_event_date": "03/17/2026",
    "review_flags": [],
