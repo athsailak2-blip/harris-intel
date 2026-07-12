@@ -48,7 +48,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 7 BLK 63-3"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -61,7 +63,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 228302,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -154,7 +156,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LTS 44 & 45 BLK 69"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -167,7 +171,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 326954,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -207,7 +211,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LTS 43 & 44 BLK 100"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -220,7 +226,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 134186,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -260,7 +266,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 4 BLK 172"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -273,7 +281,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 32906,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -313,7 +321,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 13 BLK 17"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -326,7 +336,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 592853,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -366,7 +376,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LTS 7 8 9 & 10 BLK 209"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -379,7 +391,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 72000,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -419,7 +431,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TRS 11A 12A 13A & 14A BLK 6"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -432,7 +446,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 127923,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -472,7 +486,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LTS 11 & 12 BLK 41"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -485,7 +501,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 259221,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -525,7 +541,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TR 13 OF LT 14 BLK 3"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -538,7 +556,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 131315,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -578,7 +596,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TR 26B BLK 5"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -591,7 +611,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 60000,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -631,7 +651,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TR 2A"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -644,7 +666,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 444074,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -684,7 +706,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 8 & TR 9A BLK 224"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -697,7 +721,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 111260,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -737,7 +761,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TR 139C E 1/2 OF W 1/2 OF 139"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -750,7 +776,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 524275,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -790,7 +816,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 44 BLK K"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -803,7 +831,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 65592,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -843,7 +871,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TR 8C BLK 19"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -856,7 +886,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 10553,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -896,7 +926,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TRS 5 & 6 BLK 4"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -909,7 +941,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 83290,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -949,7 +981,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 12 BLK 54"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -962,7 +996,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 349604,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -1002,7 +1036,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 43 BLK 79"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -1015,7 +1051,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 51188,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -1055,7 +1091,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 10 IN 28 BLK B"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -1068,7 +1106,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 340391,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -1108,7 +1146,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 90"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -1121,7 +1161,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 135969,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -1161,7 +1201,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TRS 21 22 23 & 24"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -1174,7 +1216,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 953443,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -1214,7 +1256,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TR 26D"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -1267,7 +1311,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TR 26E IN ABST 348 &"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -1280,7 +1326,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 96164,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -1320,7 +1366,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TRS 158 & 159"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -1333,7 +1381,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 123102,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -1373,7 +1421,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TR 33R"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -1386,7 +1436,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 9675928,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -1426,7 +1476,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TR 9E"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -1439,7 +1491,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 79018,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -1479,7 +1531,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 27 BLK 6"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -1492,7 +1546,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 23269,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -1532,7 +1586,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 28 BLK 6"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -1545,7 +1601,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 23269,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -1585,7 +1641,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 208 BLK 10"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -1598,7 +1656,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 106580,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -1638,7 +1696,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 10 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -1651,7 +1711,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 30000,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -1691,7 +1751,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TRS 1 & 2A BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -1704,7 +1766,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 138875,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -1744,7 +1806,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TR 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -1757,7 +1821,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 432107,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -1797,7 +1861,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 9 BLK 3"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -1810,7 +1876,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 228563,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -1850,7 +1916,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 14 BLK 4"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -1863,7 +1931,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 100000,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -1903,7 +1971,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TR 2 BLK 14"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -1916,7 +1986,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 97050,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -1956,7 +2026,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 7 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -1969,7 +2041,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 30000,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -2009,7 +2081,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 1 BLK 4"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -2062,7 +2136,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 2 BLK 4"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -2075,7 +2151,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 0,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -2115,7 +2191,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 10 BLK 5"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -2128,7 +2206,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 15300,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -2168,7 +2246,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 61 BLK 57"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -2181,7 +2261,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 76371,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -2221,7 +2301,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 19 BLK 123"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -2234,7 +2316,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 60267,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -2274,7 +2356,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 10 BLK 231"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -2287,7 +2371,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 185506,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -2327,7 +2411,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TR 1248A BLK 53"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -2340,7 +2426,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 144045,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -2380,7 +2466,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TR 219B BLK 8"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -2393,7 +2481,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 8448,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -2433,7 +2521,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 10 & TR 11A BLK 21"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -2446,7 +2536,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 353277,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -2486,7 +2576,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 21 BLK 8"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -2499,7 +2591,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 30000,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -2539,7 +2631,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 2 BLK 7"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -2552,7 +2646,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 117187,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -2592,7 +2686,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 157 BLK 6"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -2605,7 +2701,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 66300,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -2645,7 +2741,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 131 BLK 7"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -2658,7 +2756,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 211828,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -2698,7 +2796,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 25 BLK 24"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -2711,7 +2811,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 67500,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -2751,7 +2851,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 7 BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -2764,7 +2866,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 85500,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -2804,7 +2906,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 9 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -2817,7 +2921,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 112409,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -2857,7 +2961,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 71 BLK 3"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -2870,7 +2976,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 235834,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -2910,7 +3016,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 72 BLK 3"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -2923,7 +3031,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 102006,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -2963,7 +3071,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 12 BLK 4"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -2976,7 +3086,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 42856,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -3016,7 +3126,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 8 BLK 20"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -3029,7 +3141,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 120000,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -3069,7 +3181,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 1054 BLK 34"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -3082,7 +3196,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 160025,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -3122,7 +3236,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TRS 1A & 1B BLK A"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -3135,7 +3251,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 927005,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -3175,7 +3291,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 14 BLK 13"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -3188,7 +3306,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 139629,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -3228,7 +3346,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 1 BLK 33"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -3241,7 +3361,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 149866,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -3281,7 +3401,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 70 BLK 4"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -3294,7 +3416,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 306553,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -3334,7 +3456,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 9 BLK 7"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -3347,7 +3471,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 101857,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -3387,7 +3511,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "W 13 FT OF LT 25 & E 42 FT OF"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -3400,7 +3526,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 160884,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -3440,7 +3566,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 19 BLK 24"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -3453,7 +3581,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 276593,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -3493,7 +3621,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 32 BLK 45"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -3506,7 +3636,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 129890,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -3546,7 +3676,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 14 BLK 10"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -3559,7 +3691,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 42952,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -3599,7 +3731,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 4 BLK 12"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -3612,7 +3746,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 204615,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -3652,7 +3786,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 4 BLK 7"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -3665,7 +3801,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 249854,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -3705,7 +3841,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 7 BLK 9"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -3718,7 +3856,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 170265,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -3758,7 +3896,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 17"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -3771,7 +3911,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 20808,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -3811,7 +3951,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 17 BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -3824,7 +3966,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 109883,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -3864,7 +4006,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 6 BLK 6"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -3877,7 +4021,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 56250,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -3917,7 +4061,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 7 BLK 6"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -3930,7 +4076,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 36225,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -3970,7 +4116,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 8 BLK 6"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -3983,7 +4131,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 108035,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -4023,7 +4171,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 9 BLK 6"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -4036,7 +4186,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 85431,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -4076,7 +4226,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 10 BLK 6"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -4089,7 +4241,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 54450,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -4129,7 +4281,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 11 BLK 6"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -4142,7 +4296,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 90288,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -4182,7 +4336,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 164 BLK 2O"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -4195,7 +4351,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 78208,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -4235,7 +4391,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TR 1A BLK 5"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -4248,7 +4406,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 4125718,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -4288,7 +4446,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 584 BLK 26"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -4301,7 +4461,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 172717,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -4341,7 +4501,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 27 BLK 13"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -4354,7 +4516,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 150537,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -4394,7 +4556,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 28 BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -4407,7 +4571,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 135559,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -4447,7 +4611,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 12 BLK 7"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -4460,7 +4626,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 238372,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -4500,7 +4666,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 6 BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -4513,7 +4681,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 193878,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -4553,7 +4721,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 4 BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -4566,7 +4736,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 198938,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -4606,7 +4776,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LTS 28 THRU 32"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -4619,7 +4791,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 124634,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -4659,7 +4831,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 9 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -4672,7 +4846,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 9032,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -4712,7 +4886,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 37 BLK 5"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -4725,7 +4901,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 14788,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -4765,7 +4941,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 38 BLK 5"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -4778,7 +4956,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 14788,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -4818,7 +4996,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 39 BLK 5"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -4831,7 +5011,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 14788,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -4871,7 +5051,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 28 BLK 33"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -4884,7 +5066,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 478050,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -4924,7 +5106,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 15 BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -4937,7 +5121,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 179578,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -4977,7 +5161,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 2 BLK 49"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -4990,7 +5176,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 480000,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -5030,7 +5216,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 5 BLK 3"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -5043,7 +5231,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 16320,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -5083,7 +5271,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 26 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -5096,7 +5286,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 224471,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -5136,7 +5326,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TR 9 BLK 7"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -5149,7 +5341,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 241100,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -5189,7 +5381,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 7 BLK 7"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -5202,7 +5396,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 146122,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -5242,7 +5436,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 21 BLK 43"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -5255,7 +5451,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 307735,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -5295,7 +5491,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 20 BLK 13"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -5308,7 +5506,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 225522,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -5348,7 +5546,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 5 BLK 12"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -5361,7 +5561,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 334073,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -5401,7 +5601,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 4 BLK 10"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -5414,7 +5616,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 209317,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -5454,7 +5656,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 15 BLK 9"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -5467,7 +5671,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 216434,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -5507,7 +5711,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 68 BLK 17"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -5520,7 +5726,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 281652,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -5560,7 +5766,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TR 2 BLK 12"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -5613,7 +5821,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 10 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -5626,7 +5836,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 219348,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -5666,7 +5876,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 20 BLK 3"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -5679,7 +5891,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 267089,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -5719,7 +5931,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 33 BLK 3"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -5732,7 +5946,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 196639,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -5772,7 +5986,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "UNIT 52 BLDG K"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -5785,7 +6001,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 121587,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -5825,7 +6041,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 228 BLK 11"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -5838,7 +6056,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 273211,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -5878,7 +6096,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 406 BLK 17"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -5891,7 +6111,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 218759,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -5931,7 +6151,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TH 144 BLDG 14"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -5944,7 +6166,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 143499,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -5984,7 +6206,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 42 BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -5997,7 +6221,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 214826,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -6037,7 +6261,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 3 BLK 25"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -6050,7 +6276,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 291296,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -6090,7 +6316,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "UNIT 124 BLDG B"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -6103,7 +6331,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 76190,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -6143,7 +6371,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TRS 34A & 35B BLK 3"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -6156,7 +6386,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 190096,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -6196,7 +6426,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 57 BLK 14"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -6209,7 +6441,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 297459,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -6249,7 +6481,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TR 3B BLK 5"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -6262,7 +6496,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 183705,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -6302,7 +6536,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 61 BLK 10"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -6315,7 +6551,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 294387,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -6355,7 +6591,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 5 BLK 12"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -6368,7 +6606,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 251373,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -6408,7 +6646,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TH 16 BLDG B"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -6421,7 +6661,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 162253,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -6461,7 +6701,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TR 21A BLK 8"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -6474,7 +6716,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 162916,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -6514,7 +6756,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 1 BLK 4"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -6527,7 +6771,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 157253,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -6567,7 +6811,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 43 & TR 42A BLK 13"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -6580,7 +6826,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 883829,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -6620,7 +6866,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "TRS 12A & 13 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -6633,7 +6881,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 141724,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -6673,7 +6921,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 105 BLK 4"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -6686,7 +6936,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 264633,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -6726,7 +6976,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 20 BLK 3"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -6739,7 +6991,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 259337,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -6779,7 +7031,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 54 BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -6792,7 +7046,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 283221,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -6832,7 +7086,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 23 BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -6845,7 +7101,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 318187,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -6885,7 +7141,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 18 BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -6898,7 +7156,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 318341,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -6938,7 +7196,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 37 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -6951,7 +7211,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 284009,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -6991,7 +7251,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 13 BLK 5"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -7044,7 +7306,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 8 BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -7057,7 +7321,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 665365,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -7097,7 +7361,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 1 BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -7110,7 +7376,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 321957,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -7150,7 +7416,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 12 BLK 19"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -7163,7 +7431,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 277878,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -7203,7 +7471,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "RES A BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -7216,7 +7486,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 1106746,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -7256,7 +7526,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "RES B BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -7269,7 +7541,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 153068,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -7309,7 +7581,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 16 BLK 5"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -7322,7 +7596,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 238484,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -7362,7 +7636,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 10 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -7375,7 +7651,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 351251,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -7415,7 +7691,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 6 BLK 3"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -7428,7 +7706,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 274156,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -7468,7 +7746,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 13 BLK 3"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -7481,7 +7761,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 423800,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -7521,7 +7801,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 63 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -7534,7 +7816,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 462592,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -7574,7 +7856,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 18 BLK 4"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -7587,7 +7871,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 317878,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -7627,7 +7911,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 10 BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -7640,7 +7926,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 266221,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -7680,7 +7966,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 1 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -7693,7 +7981,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 716658,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -7733,7 +8021,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "ALL UNITS & BLDGS IN"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -7746,7 +8036,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 1183030,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -11973,7 +12263,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 12 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -11986,7 +12278,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 408664,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -12026,7 +12318,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 3 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -12039,7 +12333,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 384924,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -12079,7 +12373,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 2 BLK 6"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -12092,7 +12388,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 273666,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -12132,7 +12428,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 40 BLK 3"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -12145,7 +12443,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 322184,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -12185,7 +12483,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 16 BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -12198,7 +12498,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 367676,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -12238,7 +12538,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 5 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -12251,7 +12553,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 264627,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -12291,7 +12593,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 21 BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -12304,7 +12608,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 283683,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -12344,7 +12648,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 31 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -12357,7 +12663,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 307784,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -12397,7 +12703,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 17 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -12410,7 +12718,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 288529,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -12450,7 +12758,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 52 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -12463,7 +12773,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 241863,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -12503,7 +12813,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 11 BLK 6"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -12516,7 +12828,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 255996,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -12556,7 +12868,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 17 BLK 5"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -12569,7 +12883,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 278017,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -12609,7 +12923,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 33 BLK 6"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -12662,7 +12978,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 7 BLK 3"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -12675,7 +12993,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 197189,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -12715,7 +13033,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 30 BLK 3"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -12728,7 +13048,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 398959,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -12768,7 +13088,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 18 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -12781,7 +13103,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 295124,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -12821,7 +13143,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 25"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -12834,7 +13158,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 254906,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -12874,7 +13198,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 34 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -12887,7 +13213,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 339640,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -12927,7 +13253,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 2 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -12940,7 +13268,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 59160,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -12980,7 +13308,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 3 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -12993,7 +13323,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 59160,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -13033,7 +13363,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 4 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -13046,7 +13378,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 59160,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -13086,7 +13418,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 18 BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -13099,7 +13433,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 306590,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -13139,7 +13473,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 1 BLK 6"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -13152,7 +13488,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 276845,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -13192,7 +13528,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 1 BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -13205,7 +13543,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 559941,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -13245,7 +13583,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 16 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -13258,7 +13598,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 255736,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -13298,7 +13638,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 7 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -13311,7 +13653,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 299059,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -13351,7 +13693,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 7 BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -13364,7 +13708,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 457868,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -13404,7 +13748,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 7 BLK 3"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -13417,7 +13763,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 480436,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -13457,7 +13803,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 3 BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -13470,7 +13818,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 449161,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -13510,7 +13858,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 9 BLK 5"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -13523,7 +13873,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 333535,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -13563,7 +13913,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 2 BLK 3"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -13576,7 +13928,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 203994,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -13616,7 +13968,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 4 BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -13629,7 +13983,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 546850,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -13669,7 +14023,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "RES A BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -13682,7 +14038,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 2815070,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -13722,7 +14078,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 26 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -13735,7 +14093,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 325938,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -13775,7 +14133,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 48 BLK 4"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -13788,7 +14148,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 268562,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -13828,7 +14188,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 36 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -13841,7 +14203,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 320260,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -13881,7 +14243,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 7 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -13894,7 +14258,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 294786,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -13934,7 +14298,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 8 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -13947,7 +14313,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 254545,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -13987,7 +14353,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 28 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -14000,7 +14368,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 394286,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -14040,7 +14408,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 17 BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -14053,7 +14423,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 391624,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -14093,7 +14463,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 11 BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -14106,7 +14478,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 430945,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -14146,7 +14518,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 10 BLK 3"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -14159,7 +14533,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 448355,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -14199,7 +14573,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 2 BLK 3"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -14212,7 +14588,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 241121,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -14252,7 +14628,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 13 BLK 3"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -14265,7 +14643,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 324672,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -14305,7 +14683,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 12 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -14318,7 +14698,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 344056,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -14358,7 +14738,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 4 BLK 2"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -14371,7 +14753,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 349973,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
@@ -14411,7 +14793,9 @@
    "display_pattern_set": [
     "tax"
    ],
-   "display_attributes": [],
+   "display_attributes": [
+    "LT 9 BLK 1"
+   ],
    "display_deal_paths": [
     "wholesale"
    ],
@@ -14424,7 +14808,7 @@
    ],
    "display_title_complexity_tier": "None",
    "display_lead_status": "CONFIRMED",
-   "display_assessed_value": null,
+   "display_assessed_value": 331199,
    "display_last_sale_price": null,
    "display_last_sale_date": null,
    "display_year_built": null,
