@@ -1,0 +1,394 @@
+[
+  {
+    "additional_owner_names": [],
+    "aggregation_key": {
+      "canonical_doc_type": "estate_owner_name_pattern",
+      "parcel_id": null,
+      "signal_type": "estate_owner_name_pattern"
+    },
+    "base_record_id": "base_raw_0ea984c3a4078449",
+    "canonical_doc_type": "estate_owner_name_pattern",
+    "confidence_status": "Confirmed",
+    "enrichment_status": "UNENRICHED",
+    "event_date": null,
+    "evidence_ids": [
+      "ev_0ea984c3a4078449"
+    ],
+    "filer_entity": null,
+    "instrument_number": "OWNER-HC-RP-2026-80249",
+    "multi_owner_status": "SINGLE_OWNER",
+    "owner_count": 1,
+    "owner_name": "estate_owner_name_pattern against unidentified party",
+    "owner_type": "UNKNOWN",
+    "owners": [
+      {
+        "confidence": null,
+        "is_primary": true,
+        "name": "estate_owner_name_pattern against unidentified party",
+        "name_type": null,
+        "notes": null,
+        "resolution_status": "REVIEW_REQUIRED",
+        "role": "unresolved",
+        "source_field": null
+      }
+    ],
+    "parcel_resolution_status": "REVIEW_REQUIRED",
+    "primary_owner_name": "estate_owner_name_pattern against unidentified party",
+    "property_refs": {
+      "case_number": "OWNER-HC-RP-2026-80249",
+      "legal_description": null,
+      "parcel_id": "HC-RP-2026-80249",
+      "situs_address": null
+    },
+    "raw_event_id": "raw_0ea984c3a4078449",
+    "recorded_date": null,
+    "review_reason": "no_debtor_rule_for_doc_type",
+    "signal_type": "estate_owner_name_pattern",
+    "source_id": "parcel_master",
+    "source_role": "PRIMARY_EVENT_SOURCE",
+    "source_url": "about:owner-name/parcel_master/HC-RP-2026-80249#estate"
+  },
+  {
+    "additional_owner_names": [],
+    "aggregation_key": {
+      "canonical_doc_type": "living_trust_owner_name_pattern",
+      "parcel_id": null,
+      "signal_type": "living_trust_owner_name_pattern"
+    },
+    "base_record_id": "base_raw_4bcff2e3edd6a650",
+    "canonical_doc_type": "living_trust_owner_name_pattern",
+    "confidence_status": "Confirmed",
+    "enrichment_status": "UNENRICHED",
+    "event_date": null,
+    "evidence_ids": [
+      "ev_4bcff2e3edd6a650"
+    ],
+    "filer_entity": null,
+    "instrument_number": "OWNER-HC-RP-2026-96301",
+    "multi_owner_status": "SINGLE_OWNER",
+    "owner_count": 1,
+    "owner_name": "living_trust_owner_name_pattern against unidentified party",
+    "owner_type": "UNKNOWN",
+    "owners": [
+      {
+        "confidence": null,
+        "is_primary": true,
+        "name": "living_trust_owner_name_pattern against unidentified party",
+        "name_type": null,
+        "notes": null,
+        "resolution_status": "REVIEW_REQUIRED",
+        "role": "unresolved",
+        "source_field": null
+      }
+    ],
+    "parcel_resolution_status": "REVIEW_REQUIRED",
+    "primary_owner_name": "living_trust_owner_name_pattern against unidentified party",
+    "property_refs": {
+      "case_number": "OWNER-HC-RP-2026-96301",
+      "legal_description": null,
+      "parcel_id": "HC-RP-2026-96301",
+      "situs_address": null
+    },
+    "raw_event_id": "raw_4bcff2e3edd6a650",
+    "recorded_date": null,
+    "review_reason": "no_debtor_rule_for_doc_type",
+    "signal_type": "living_trust_owner_name_pattern",
+    "source_id": "parcel_master",
+    "source_role": "PRIMARY_EVENT_SOURCE",
+    "source_url": "about:owner-name/parcel_master/HC-RP-2026-96301#trust"
+  },
+  {
+    "additional_owner_names": [],
+    "aggregation_key": {
+      "canonical_doc_type": "living_trust_owner_name_pattern",
+      "parcel_id": null,
+      "signal_type": "living_trust_owner_name_pattern"
+    },
+    "base_record_id": "base_raw_8e7b9b8ffdb785cd",
+    "canonical_doc_type": "living_trust_owner_name_pattern",
+    "confidence_status": "Confirmed",
+    "enrichment_status": "UNENRICHED",
+    "event_date": null,
+    "evidence_ids": [
+      "ev_8e7b9b8ffdb785cd"
+    ],
+    "filer_entity": null,
+    "instrument_number": "OWNER-HC-RP-2026-80249",
+    "multi_owner_status": "SINGLE_OWNER",
+    "owner_count": 1,
+    "owner_name": "living_trust_owner_name_pattern against unidentified party",
+    "owner_type": "UNKNOWN",
+    "owners": [
+      {
+        "confidence": null,
+        "is_primary": true,
+        "name": "living_trust_owner_name_pattern against unidentified party",
+        "name_type": null,
+        "notes": null,
+        "resolution_status": "REVIEW_REQUIRED",
+        "role": "unresolved",
+        "source_field": null
+      }
+    ],
+    "parcel_resolution_status": "REVIEW_REQUIRED",
+    "primary_owner_name": "living_trust_owner_name_pattern against unidentified party",
+    "property_refs": {
+      "case_number": "OWNER-HC-RP-2026-80249",
+      "legal_description": null,
+      "parcel_id": "HC-RP-2026-80249",
+      "situs_address": null
+    },
+    "raw_event_id": "raw_8e7b9b8ffdb785cd",
+    "recorded_date": null,
+    "review_reason": "no_debtor_rule_for_doc_type",
+    "signal_type": "living_trust_owner_name_pattern",
+    "source_id": "parcel_master",
+    "source_role": "PRIMARY_EVENT_SOURCE",
+    "source_url": "about:owner-name/parcel_master/HC-RP-2026-80249#trust"
+  },
+  {
+    "additional_owner_names": [],
+    "aggregation_key": {
+      "canonical_doc_type": "estate_owner_name_pattern",
+      "parcel_id": null,
+      "signal_type": "estate_owner_name_pattern"
+    },
+    "base_record_id": "base_raw_9cea33aa1ad284bf",
+    "canonical_doc_type": "estate_owner_name_pattern",
+    "confidence_status": "Confirmed",
+    "enrichment_status": "UNENRICHED",
+    "event_date": null,
+    "evidence_ids": [
+      "ev_9cea33aa1ad284bf"
+    ],
+    "filer_entity": null,
+    "instrument_number": "OWNER-HC-RP-2026-99970",
+    "multi_owner_status": "SINGLE_OWNER",
+    "owner_count": 1,
+    "owner_name": "estate_owner_name_pattern against unidentified party",
+    "owner_type": "UNKNOWN",
+    "owners": [
+      {
+        "confidence": null,
+        "is_primary": true,
+        "name": "estate_owner_name_pattern against unidentified party",
+        "name_type": null,
+        "notes": null,
+        "resolution_status": "REVIEW_REQUIRED",
+        "role": "unresolved",
+        "source_field": null
+      }
+    ],
+    "parcel_resolution_status": "REVIEW_REQUIRED",
+    "primary_owner_name": "estate_owner_name_pattern against unidentified party",
+    "property_refs": {
+      "case_number": "OWNER-HC-RP-2026-99970",
+      "legal_description": null,
+      "parcel_id": "HC-RP-2026-99970",
+      "situs_address": null
+    },
+    "raw_event_id": "raw_9cea33aa1ad284bf",
+    "recorded_date": null,
+    "review_reason": "no_debtor_rule_for_doc_type",
+    "signal_type": "estate_owner_name_pattern",
+    "source_id": "parcel_master",
+    "source_role": "PRIMARY_EVENT_SOURCE",
+    "source_url": "about:owner-name/parcel_master/HC-RP-2026-99970#estate"
+  },
+  {
+    "additional_owner_names": [],
+    "aggregation_key": {
+      "canonical_doc_type": "living_trust_owner_name_pattern",
+      "parcel_id": null,
+      "signal_type": "living_trust_owner_name_pattern"
+    },
+    "base_record_id": "base_raw_a73f0204fd8d61cd",
+    "canonical_doc_type": "living_trust_owner_name_pattern",
+    "confidence_status": "Confirmed",
+    "enrichment_status": "UNENRICHED",
+    "event_date": null,
+    "evidence_ids": [
+      "ev_a73f0204fd8d61cd"
+    ],
+    "filer_entity": null,
+    "instrument_number": "OWNER-HC-RP-2026-99995",
+    "multi_owner_status": "SINGLE_OWNER",
+    "owner_count": 1,
+    "owner_name": "living_trust_owner_name_pattern against unidentified party",
+    "owner_type": "UNKNOWN",
+    "owners": [
+      {
+        "confidence": null,
+        "is_primary": true,
+        "name": "living_trust_owner_name_pattern against unidentified party",
+        "name_type": null,
+        "notes": null,
+        "resolution_status": "REVIEW_REQUIRED",
+        "role": "unresolved",
+        "source_field": null
+      }
+    ],
+    "parcel_resolution_status": "REVIEW_REQUIRED",
+    "primary_owner_name": "living_trust_owner_name_pattern against unidentified party",
+    "property_refs": {
+      "case_number": "OWNER-HC-RP-2026-99995",
+      "legal_description": null,
+      "parcel_id": "HC-RP-2026-99995",
+      "situs_address": null
+    },
+    "raw_event_id": "raw_a73f0204fd8d61cd",
+    "recorded_date": null,
+    "review_reason": "no_debtor_rule_for_doc_type",
+    "signal_type": "living_trust_owner_name_pattern",
+    "source_id": "parcel_master",
+    "source_role": "PRIMARY_EVENT_SOURCE",
+    "source_url": "about:owner-name/parcel_master/HC-RP-2026-99995#trust"
+  },
+  {
+    "additional_owner_names": [],
+    "aggregation_key": {
+      "canonical_doc_type": "living_trust_owner_name_pattern",
+      "parcel_id": null,
+      "signal_type": "living_trust_owner_name_pattern"
+    },
+    "base_record_id": "base_raw_b89099c1349c4ced",
+    "canonical_doc_type": "living_trust_owner_name_pattern",
+    "confidence_status": "Confirmed",
+    "enrichment_status": "UNENRICHED",
+    "event_date": null,
+    "evidence_ids": [
+      "ev_b89099c1349c4ced"
+    ],
+    "filer_entity": null,
+    "instrument_number": "OWNER-HC-RP-2026-85481",
+    "multi_owner_status": "SINGLE_OWNER",
+    "owner_count": 1,
+    "owner_name": "living_trust_owner_name_pattern against unidentified party",
+    "owner_type": "UNKNOWN",
+    "owners": [
+      {
+        "confidence": null,
+        "is_primary": true,
+        "name": "living_trust_owner_name_pattern against unidentified party",
+        "name_type": null,
+        "notes": null,
+        "resolution_status": "REVIEW_REQUIRED",
+        "role": "unresolved",
+        "source_field": null
+      }
+    ],
+    "parcel_resolution_status": "REVIEW_REQUIRED",
+    "primary_owner_name": "living_trust_owner_name_pattern against unidentified party",
+    "property_refs": {
+      "case_number": "OWNER-HC-RP-2026-85481",
+      "legal_description": null,
+      "parcel_id": "HC-RP-2026-85481",
+      "situs_address": null
+    },
+    "raw_event_id": "raw_b89099c1349c4ced",
+    "recorded_date": null,
+    "review_reason": "no_debtor_rule_for_doc_type",
+    "signal_type": "living_trust_owner_name_pattern",
+    "source_id": "parcel_master",
+    "source_role": "PRIMARY_EVENT_SOURCE",
+    "source_url": "about:owner-name/parcel_master/HC-RP-2026-85481#trust"
+  },
+  {
+    "additional_owner_names": [],
+    "aggregation_key": {
+      "canonical_doc_type": "estate_owner_name_pattern",
+      "parcel_id": null,
+      "signal_type": "estate_owner_name_pattern"
+    },
+    "base_record_id": "base_raw_ceef1a127d23afaa",
+    "canonical_doc_type": "estate_owner_name_pattern",
+    "confidence_status": "Confirmed",
+    "enrichment_status": "UNENRICHED",
+    "event_date": null,
+    "evidence_ids": [
+      "ev_ceef1a127d23afaa"
+    ],
+    "filer_entity": null,
+    "instrument_number": "OWNER-HC-RP-2026-75917",
+    "multi_owner_status": "SINGLE_OWNER",
+    "owner_count": 1,
+    "owner_name": "estate_owner_name_pattern against unidentified party",
+    "owner_type": "UNKNOWN",
+    "owners": [
+      {
+        "confidence": null,
+        "is_primary": true,
+        "name": "estate_owner_name_pattern against unidentified party",
+        "name_type": null,
+        "notes": null,
+        "resolution_status": "REVIEW_REQUIRED",
+        "role": "unresolved",
+        "source_field": null
+      }
+    ],
+    "parcel_resolution_status": "REVIEW_REQUIRED",
+    "primary_owner_name": "estate_owner_name_pattern against unidentified party",
+    "property_refs": {
+      "case_number": "OWNER-HC-RP-2026-75917",
+      "legal_description": null,
+      "parcel_id": "HC-RP-2026-75917",
+      "situs_address": null
+    },
+    "raw_event_id": "raw_ceef1a127d23afaa",
+    "recorded_date": null,
+    "review_reason": "no_debtor_rule_for_doc_type",
+    "signal_type": "estate_owner_name_pattern",
+    "source_id": "parcel_master",
+    "source_role": "PRIMARY_EVENT_SOURCE",
+    "source_url": "about:owner-name/parcel_master/HC-RP-2026-75917#estate"
+  },
+  {
+    "additional_owner_names": [],
+    "aggregation_key": {
+      "canonical_doc_type": "living_trust_owner_name_pattern",
+      "parcel_id": null,
+      "signal_type": "living_trust_owner_name_pattern"
+    },
+    "base_record_id": "base_raw_fb5aa08503544b85",
+    "canonical_doc_type": "living_trust_owner_name_pattern",
+    "confidence_status": "Confirmed",
+    "enrichment_status": "UNENRICHED",
+    "event_date": null,
+    "evidence_ids": [
+      "ev_fb5aa08503544b85"
+    ],
+    "filer_entity": null,
+    "instrument_number": "OWNER-HC-RP-2026-99996",
+    "multi_owner_status": "SINGLE_OWNER",
+    "owner_count": 1,
+    "owner_name": "living_trust_owner_name_pattern against unidentified party",
+    "owner_type": "UNKNOWN",
+    "owners": [
+      {
+        "confidence": null,
+        "is_primary": true,
+        "name": "living_trust_owner_name_pattern against unidentified party",
+        "name_type": null,
+        "notes": null,
+        "resolution_status": "REVIEW_REQUIRED",
+        "role": "unresolved",
+        "source_field": null
+      }
+    ],
+    "parcel_resolution_status": "REVIEW_REQUIRED",
+    "primary_owner_name": "living_trust_owner_name_pattern against unidentified party",
+    "property_refs": {
+      "case_number": "OWNER-HC-RP-2026-99996",
+      "legal_description": null,
+      "parcel_id": "HC-RP-2026-99996",
+      "situs_address": null
+    },
+    "raw_event_id": "raw_fb5aa08503544b85",
+    "recorded_date": null,
+    "review_reason": "no_debtor_rule_for_doc_type",
+    "signal_type": "living_trust_owner_name_pattern",
+    "source_id": "parcel_master",
+    "source_role": "PRIMARY_EVENT_SOURCE",
+    "source_url": "about:owner-name/parcel_master/HC-RP-2026-99996#trust"
+  }
+]
