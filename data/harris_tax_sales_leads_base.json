@@ -479,7 +479,7 @@
       "case_number": "",
       "legal_description": null,
       "parcel_id": "0630190040002",
-      "situs_address": "304 AVENUE E HIGHLANDS TX 77562"
+      "situs_address": "1318 CHERRY ST. BAYTOWN TX 77520"
     },
     "raw_event_id": "raw_09373ed41c5ee569",
     "recorded_date": "",
@@ -626,7 +626,7 @@
       "case_number": "",
       "legal_description": null,
       "parcel_id": "0960660000006",
-      "situs_address": "4214 WYATT ST PASADENA TX 77503-2825"
+      "situs_address": null
     },
     "raw_event_id": "raw_0c3d76aa2892bebc",
     "recorded_date": "",
@@ -874,6 +874,55 @@
       "situs_address": "8322 W MONTGOMERY RD. HOUSTON TX 77088"
     },
     "raw_event_id": "raw_0f0cf936fd9a0222",
+    "recorded_date": "",
+    "review_reason": "owner_not_on_document",
+    "signal_type": "tax_deed",
+    "source_id": "harris_tax_sales",
+    "source_role": "PRIMARY_EVENT_SOURCE",
+    "source_url": "https://www.hctax.net/Property/listings/taxsalelisting"
+  },
+  {
+    "additional_owner_names": [],
+    "aggregation_key": {
+      "canonical_doc_type": "tax_deed",
+      "parcel_id": null,
+      "signal_type": "tax_deed"
+    },
+    "base_record_id": "base_raw_0fa09e812f8d2c07",
+    "canonical_doc_type": "tax_deed",
+    "confidence_status": "Confirmed",
+    "enrichment_status": "UNENRICHED",
+    "event_date": null,
+    "evidence_ids": [
+      "ev_0fa09e812f8d2c07"
+    ],
+    "filer_entity": null,
+    "instrument_number": "0552000000002",
+    "multi_owner_status": "SINGLE_OWNER",
+    "owner_count": 1,
+    "owner_name": "tax_deed against unidentified party",
+    "owner_type": "UNKNOWN",
+    "owners": [
+      {
+        "confidence": null,
+        "is_primary": true,
+        "name": "tax_deed against unidentified party",
+        "name_type": null,
+        "notes": null,
+        "resolution_status": "REVIEW_REQUIRED",
+        "role": "unresolved",
+        "source_field": null
+      }
+    ],
+    "parcel_resolution_status": "REVIEW_REQUIRED",
+    "primary_owner_name": "tax_deed against unidentified party",
+    "property_refs": {
+      "case_number": "",
+      "legal_description": null,
+      "parcel_id": "0552000000002",
+      "situs_address": "11222 SAGEWOOD DR. HOUSTON TX 77089"
+    },
+    "raw_event_id": "raw_0fa09e812f8d2c07",
     "recorded_date": "",
     "review_reason": "owner_not_on_document",
     "signal_type": "tax_deed",
@@ -6506,7 +6555,7 @@
       "case_number": "",
       "legal_description": null,
       "parcel_id": "0552000000001",
-      "situs_address": null
+      "situs_address": "609 PRUETT #5 BAYTOWN TX 77520"
     },
     "raw_event_id": "raw_8210eee40b37f1ca",
     "recorded_date": "",
@@ -7339,7 +7388,7 @@
       "case_number": "",
       "legal_description": null,
       "parcel_id": "0630190040001",
-      "situs_address": "0 JOHNSTON ST. BAYTOWN TX 77520"
+      "situs_address": "304 AVENUE E HIGHLANDS TX 77562"
     },
     "raw_event_id": "raw_8c3d0c61f9e2d8a9",
     "recorded_date": "",
@@ -7437,7 +7486,7 @@
       "case_number": "",
       "legal_description": null,
       "parcel_id": "0921010000028",
-      "situs_address": null
+      "situs_address": "6902 HOCKLEY GARDEN LN HOUSTON TX 77049"
     },
     "raw_event_id": "raw_8d725855269728bb",
     "recorded_date": "",
@@ -7535,7 +7584,7 @@
       "case_number": "",
       "legal_description": null,
       "parcel_id": "0430140000211",
-      "situs_address": null
+      "situs_address": "19911 IMPERIAL STONE DR HOUSTON TX 77073"
     },
     "raw_event_id": "raw_8db3c83761752dbf",
     "recorded_date": "",
@@ -8613,7 +8662,7 @@
       "case_number": "",
       "legal_description": null,
       "parcel_id": "0512550060027",
-      "situs_address": "1318 CHERRY ST. BAYTOWN TX 77520"
+      "situs_address": "0 JOHNSTON ST. BAYTOWN TX 77520"
     },
     "raw_event_id": "raw_a631150f431fd6f9",
     "recorded_date": "",
@@ -12092,7 +12141,7 @@
       "case_number": "",
       "legal_description": null,
       "parcel_id": "1184450010010",
-      "situs_address": null
+      "situs_address": "4214 WYATT ST PASADENA TX 77503-2825"
     },
     "raw_event_id": "raw_ec50037c5610565a",
     "recorded_date": "",
@@ -12291,55 +12340,6 @@
       "situs_address": "1309 TOWNHOUSE LN PASADENA TX 77502-1463"
     },
     "raw_event_id": "raw_f350694254cd7728",
-    "recorded_date": "",
-    "review_reason": "owner_not_on_document",
-    "signal_type": "tax_deed",
-    "source_id": "harris_tax_sales",
-    "source_role": "PRIMARY_EVENT_SOURCE",
-    "source_url": "https://www.hctax.net/Property/listings/taxsalelisting"
-  },
-  {
-    "additional_owner_names": [],
-    "aggregation_key": {
-      "canonical_doc_type": "tax_deed",
-      "parcel_id": null,
-      "signal_type": "tax_deed"
-    },
-    "base_record_id": "base_raw_f35b6e715b1c321b",
-    "canonical_doc_type": "tax_deed",
-    "confidence_status": "Confirmed",
-    "enrichment_status": "UNENRICHED",
-    "event_date": null,
-    "evidence_ids": [
-      "ev_f35b6e715b1c321b"
-    ],
-    "filer_entity": null,
-    "instrument_number": "1021780000009",
-    "multi_owner_status": "SINGLE_OWNER",
-    "owner_count": 1,
-    "owner_name": "tax_deed against unidentified party",
-    "owner_type": "UNKNOWN",
-    "owners": [
-      {
-        "confidence": null,
-        "is_primary": true,
-        "name": "tax_deed against unidentified party",
-        "name_type": null,
-        "notes": null,
-        "resolution_status": "REVIEW_REQUIRED",
-        "role": "unresolved",
-        "source_field": null
-      }
-    ],
-    "parcel_resolution_status": "REVIEW_REQUIRED",
-    "primary_owner_name": "tax_deed against unidentified party",
-    "property_refs": {
-      "case_number": "",
-      "legal_description": null,
-      "parcel_id": "1021780000009",
-      "situs_address": null
-    },
-    "raw_event_id": "raw_f35b6e715b1c321b",
     "recorded_date": "",
     "review_reason": "owner_not_on_document",
     "signal_type": "tax_deed",

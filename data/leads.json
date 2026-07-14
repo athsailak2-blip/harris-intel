@@ -1,37 +1,37 @@
 {
- "generated_at": "2026-07-13T06:10:01Z",
+ "generated_at": "2026-07-14T06:12:02Z",
  "build_label": "FULL_BUILD",
  "mode": "production",
  "county": "Harris County",
  "state": "TX",
  "semantic_verdict": "NEEDS_OPERATOR_REVIEW",
- "lead_total": 1994,
+ "lead_total": 2090,
  "enrichment_breakdown": {
   "ENRICHED": 54,
-  "UNENRICHED": 1940
+  "UNENRICHED": 2036
  },
  "pattern_counts": {
   "estate": 1493,
-  "foreclosure": 157,
-  "lien": 60,
-  "tax": 272,
-  "transfer": 13
+  "foreclosure": 217,
+  "lien": 61,
+  "tax": 273,
+  "transfer": 47
  },
  "attribute_counts": {
   "entity_owned": 17
  },
  "stack_depth_distribution": {
-  "1": 1993,
+  "1": 2089,
   "2": 1
  },
  "score_tier_distribution": {
-  "Archive": 1564,
-  "Low": 158,
-  "Workable": 272
+  "Archive": 1599,
+  "Low": 213,
+  "Workable": 278
  },
  "deal_path_distribution": {
   "partial_interest": 1,
-  "wholesale": 1994
+  "wholesale": 2090
  },
  "records": [
   {
@@ -3339,7 +3339,7 @@
    "scored_lead_id": "scored_ae4215fd5bd4e078",
    "primary_parcel_id": null,
    "display_address": "17738 KINGS PARK LN HOUSTON TX 77058",
-   "display_owner": "Tax sale \u2014 Cause #202530217 \u2014 Precinct 8 \u2014 SALE 2",
+   "display_owner": "Tax sale \u2014 Cause #202530217 \u2014 Precinct 8 \u2014 Sale 2",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -3507,7 +3507,7 @@
    "scored_lead_id": "scored_8a143e3b1e73fe15",
    "primary_parcel_id": null,
    "display_address": "7610 WALLISVILLE RD HOUSTON TX 77020-3636",
-   "display_owner": "Tax sale \u2014 Cause #202533702 \u2014 Precinct 1 \u2014 SALE 2",
+   "display_owner": "Tax sale \u2014 Cause #202533702 \u2014 Precinct 1 \u2014 Sale 2",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -3955,7 +3955,7 @@
    "scored_lead_id": "scored_854b8b9830716fa7",
    "primary_parcel_id": null,
    "display_address": "205 DENHAM AVE PASADENA TX 77506",
-   "display_owner": "Tax sale \u2014 Cause #202449230 \u2014 Precinct 2 \u2014 SALE 2",
+   "display_owner": "Tax sale \u2014 Cause #202449230 \u2014 Precinct 2 \u2014 Sale 2",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -4011,7 +4011,7 @@
    "scored_lead_id": "scored_28fd35061176fddd",
    "primary_parcel_id": null,
    "display_address": "18518 HAYDEN POND DR CYPRESS TX 77429",
-   "display_owner": "Tax sale \u2014 Cause #202274775 \u2014 Precinct 4 \u2014 SALE 6",
+   "display_owner": "Tax sale \u2014 Cause #202274775 \u2014 Precinct 4 \u2014 Sale 6",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -4235,7 +4235,7 @@
    "scored_lead_id": "scored_0a91494b9b639f35",
    "primary_parcel_id": null,
    "display_address": "27121 W HARDY RD SPRING TX 77373",
-   "display_owner": "Tax sale \u2014 Cause #202377660 \u2014 Precinct 4 \u2014 SALE 12",
+   "display_owner": "Tax sale \u2014 Cause #202377660 \u2014 Precinct 4 \u2014 Sale 12",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -4290,8 +4290,8 @@
    "lead_id": "lead_unresolved_0430140000211",
    "scored_lead_id": "scored_9b656c5a1b30933d",
    "primary_parcel_id": null,
-   "display_address": "TR 26E IN ABST 348 & (HCAD acct 0430140000211)",
-   "display_owner": "Tax sale \u2014 Cause #202377660 \u2014 Precinct 4 \u2014 SALE 13",
+   "display_address": "19911 IMPERIAL STONE DR HOUSTON TX 77073",
+   "display_owner": "Tax sale \u2014 Cause #202377660 \u2014 Precinct 4 \u2014 Sale 13",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -4347,7 +4347,7 @@
    "scored_lead_id": "scored_f048b4c4d7924f24",
    "primary_parcel_id": null,
    "display_address": "13315 COLOGNE DR HOUSTON TX 77065",
-   "display_owner": "Tax sale \u2014 Cause #202083672 \u2014 Precinct 4 \u2014 SALE 3",
+   "display_owner": "Tax sale \u2014 Cause #202083672 \u2014 Precinct 4 \u2014 Sale 3",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -4514,7 +4514,7 @@
    "lead_id": "lead_unresolved_0512550060027",
    "scored_lead_id": "scored_4503b2238036633c",
    "primary_parcel_id": null,
-   "display_address": "1318 CHERRY ST. BAYTOWN TX 77520",
+   "display_address": "0 JOHNSTON ST. BAYTOWN TX 77520",
    "display_owner": "Tax sale \u2014 Cause #202413127 \u2014 Precinct 8 \u2014 SALE 7",
    "display_score": 55,
    "display_tier": "Workable",
@@ -4738,8 +4738,8 @@
    "lead_id": "lead_unresolved_0552000000001",
    "scored_lead_id": "scored_31dbb55b5e7f36b1",
    "primary_parcel_id": null,
-   "display_address": "TRS 1 & 2A BLK 2 (HCAD acct 0552000000001)",
-   "display_owner": "Tax sale \u2014 Cause #202009438 \u2014 Precinct 8 \u2014 SALE 1",
+   "display_address": "609 PRUETT #5 BAYTOWN TX 77520",
+   "display_owner": "Tax sale \u2014 Cause #202009438 \u2014 Precinct 8 \u2014 Sale 1",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -4778,6 +4778,62 @@
    ],
    "evidence_ids": [
     "ev_8210eee40b37f1ca"
+   ],
+   "primary_event_date": null,
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:owner_not_on_document"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://www.hctax.net/Property/TaxSales/Index"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_0552000000002",
+   "scored_lead_id": "scored_9cd4bae057307d16",
+   "primary_parcel_id": null,
+   "display_address": "11222 SAGEWOOD DR. HOUSTON TX 77089",
+   "display_owner": "Tax sale \u2014 Cause #202009438 \u2014 Precinct 8 \u2014 Sale 2",
+   "display_score": 55,
+   "display_tier": "Workable",
+   "display_patterns": [
+    "tax"
+   ],
+   "stack_contrib_patterns": [
+    "tax"
+   ],
+   "display_pattern_set": [
+    "tax"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_TAX_DEED",
+     "delta": 55
+    }
+   ],
+   "evidence_ids": [
+    "ev_0fa09e812f8d2c07"
    ],
    "primary_event_date": null,
    "review_flags": [
@@ -4851,7 +4907,7 @@
    "scored_lead_id": "scored_332b538a968ffeb5",
    "primary_parcel_id": null,
    "display_address": "8322 W MONTGOMERY RD. HOUSTON TX 77088",
-   "display_owner": "Tax sale \u2014 Cause #202331294 \u2014 Precinct 1 \u2014 SALE 1",
+   "display_owner": "Tax sale \u2014 Cause #202331294 \u2014 Precinct 1 \u2014 Sale 1",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -4963,7 +5019,7 @@
    "scored_lead_id": "scored_07c6e506ee65c4b2",
    "primary_parcel_id": null,
    "display_address": "0 EGRET CANAL N. BAYTOWN TX 77523",
-   "display_owner": "Tax sale \u2014 Cause #202333292 \u2014 Precinct 8 \u2014 RESALE 8",
+   "display_owner": "Tax sale \u2014 Cause #202333292 \u2014 Precinct 8 \u2014 ReSale 8",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -5019,7 +5075,7 @@
    "scored_lead_id": "scored_923ff2784f254c61",
    "primary_parcel_id": null,
    "display_address": "700 YUPON ST. BAYTOWN TX 77520",
-   "display_owner": "Tax sale \u2014 Cause #201828849 \u2014 Precinct 8 \u2014 RESALE 1",
+   "display_owner": "Tax sale \u2014 Cause #201828849 \u2014 Precinct 8 \u2014 ReSale 1",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -5074,8 +5130,8 @@
    "lead_id": "lead_unresolved_0630190040001",
    "scored_lead_id": "scored_1795d696a20fb2d4",
    "primary_parcel_id": null,
-   "display_address": "0 JOHNSTON ST. BAYTOWN TX 77520",
-   "display_owner": "Tax sale \u2014 Cause #202219537 \u2014 Precinct 8 \u2014 RESALE 6",
+   "display_address": "304 AVENUE E HIGHLANDS TX 77562",
+   "display_owner": "Tax sale \u2014 Cause #202219537 \u2014 Precinct 8 \u2014 ReSale 6",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -5130,8 +5186,8 @@
    "lead_id": "lead_unresolved_0630190040002",
    "scored_lead_id": "scored_f494d5d3b6c84d1b",
    "primary_parcel_id": null,
-   "display_address": "304 AVENUE E HIGHLANDS TX 77562",
-   "display_owner": "Tax sale \u2014 Cause #201828849 \u2014 Precinct 8 \u2014 RESALE 7",
+   "display_address": "1318 CHERRY ST. BAYTOWN TX 77520",
+   "display_owner": "Tax sale \u2014 Cause #201828849 \u2014 Precinct 8 \u2014 Sale 7",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -5187,7 +5243,7 @@
    "scored_lead_id": "scored_47a59e4660e87d55",
    "primary_parcel_id": null,
    "display_address": "1113 PARK WAY DR. BAYTOWN TX 77520",
-   "display_owner": "Tax sale \u2014 Cause #202076129 \u2014 Precinct 8 \u2014 RESALE 4",
+   "display_owner": "Tax sale \u2014 Cause #202076129 \u2014 Precinct 8 \u2014 ReSale 4",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -5299,7 +5355,7 @@
    "scored_lead_id": "scored_813e1037e79b1b07",
    "primary_parcel_id": null,
    "display_address": "13335 PEORIA ST HOUSTON TX 77015",
-   "display_owner": "Tax sale \u2014 Cause #202517818 \u2014 Precinct 3 \u2014 SALE 9",
+   "display_owner": "Tax sale \u2014 Cause #202517818 \u2014 Precinct 3 \u2014 Sale 9",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -5355,7 +5411,7 @@
    "scored_lead_id": "scored_4435bbbb74917f20",
    "primary_parcel_id": null,
    "display_address": "14137 HILLSBORO ST HOUSTON TX 77015",
-   "display_owner": "Tax sale \u2014 Cause #202513719 \u2014 Precinct 3 \u2014 SALE 8",
+   "display_owner": "Tax sale \u2014 Cause #202513719 \u2014 Precinct 3 \u2014 Sale 8",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -5579,7 +5635,7 @@
    "scored_lead_id": "scored_f5cc68568cc47e43",
    "primary_parcel_id": null,
    "display_address": "1001 E. JAMES ST. BAYTOWN TX 77520",
-   "display_owner": "Tax sale \u2014 Cause #202013541 \u2014 Precinct 8 \u2014 RESALE 2",
+   "display_owner": "Tax sale \u2014 Cause #202013541 \u2014 Precinct 8 \u2014 ReSale 2",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -5915,7 +5971,7 @@
    "scored_lead_id": "scored_d96c034b9d4b3483",
    "primary_parcel_id": null,
    "display_address": "11430 MEADOWAY DR HOUSTON TX 77089",
-   "display_owner": "Tax sale \u2014 Cause #202453641 \u2014 Precinct 2 \u2014 SALE 3",
+   "display_owner": "Tax sale \u2014 Cause #202453641 \u2014 Precinct 2 \u2014 Sale 3",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -6136,7 +6192,7 @@
    "scored_lead_id": "scored_8e3d31e0388eb86b",
    "primary_parcel_id": null,
    "display_address": "0 JOHNSTON ST. BAYTOWN TX 77520",
-   "display_owner": "Tax sale \u2014 Cause #202118967 \u2014 Precinct 8 \u2014 RESALE 5",
+   "display_owner": "Tax sale \u2014 Cause #202118967 \u2014 Precinct 8 \u2014 ReSale 5",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -6248,7 +6304,7 @@
    "scored_lead_id": "scored_97b7c28dcfbbc323",
    "primary_parcel_id": null,
    "display_address": "815 GRAND OAKS DR HOUSTON TX 77015",
-   "display_owner": "Tax sale \u2014 Cause #202580020 \u2014 Precinct 3 \u2014 SALE 10",
+   "display_owner": "Tax sale \u2014 Cause #202580020 \u2014 Precinct 3 \u2014 Sale 10",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -6528,7 +6584,7 @@
    "scored_lead_id": "scored_1f98865a142c13cb",
    "primary_parcel_id": null,
    "display_address": "LT 9 BLK 7 (HCAD acct 0771950070009)",
-   "display_owner": "Tax sale \u2014 Cause #202521211 \u2014 Precinct 2 \u2014 SALE 5",
+   "display_owner": "Tax sale \u2014 Cause #202521211 \u2014 Precinct 2 \u2014 Sale 5",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -6640,7 +6696,7 @@
    "scored_lead_id": "scored_b37e6cb2bc9fafbf",
    "primary_parcel_id": null,
    "display_address": "1009 IOWA ST SOUTH HOUSTON TX 77587",
-   "display_owner": "Tax sale \u2014 Cause #202316962 \u2014 Precinct 2 \u2014 SALE 1",
+   "display_owner": "Tax sale \u2014 Cause #202316962 \u2014 Precinct 2 \u2014 Sale 1",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -6752,7 +6808,7 @@
    "scored_lead_id": "scored_ffbe7746cb68f8cd",
    "primary_parcel_id": null,
    "display_address": "239 OPAL WAY HUFFMAN TX 77336",
-   "display_owner": "Tax sale \u2014 Cause #202130609 \u2014 Precinct 3 \u2014 SALE 5",
+   "display_owner": "Tax sale \u2014 Cause #202130609 \u2014 Precinct 3 \u2014 Sale 5",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -6808,7 +6864,7 @@
    "scored_lead_id": "scored_99adc757838b19b4",
    "primary_parcel_id": null,
    "display_address": "13714 LONGVIEW ST HOUSTON TX 77015",
-   "display_owner": "Tax sale \u2014 Cause #202184247 \u2014 Precinct 3 \u2014 SALE 7",
+   "display_owner": "Tax sale \u2014 Cause #202184247 \u2014 Precinct 3 \u2014 Sale 7",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -7647,8 +7703,8 @@
    "lead_id": "lead_unresolved_0921010000028",
    "scored_lead_id": "scored_bb251a5bc17326c9",
    "primary_parcel_id": null,
-   "display_address": "LT 28 BLK 2 (HCAD acct 0921010000028)",
-   "display_owner": "Tax sale \u2014 Cause #202587533 \u2014 Precinct 3 \u2014 SALE 11",
+   "display_address": "6902 HOCKLEY GARDEN LN HOUSTON TX 77049",
+   "display_owner": "Tax sale \u2014 Cause #202587533 \u2014 Precinct 3 \u2014 Sale 11",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -7704,7 +7760,7 @@
    "scored_lead_id": "scored_2ffe73486cb90ae8",
    "primary_parcel_id": null,
    "display_address": "11802 ALMEDA GENOA RD HOUSTON TX 77034",
-   "display_owner": "Tax sale \u2014 Cause #202310715 \u2014 Precinct 8 \u2014 SALE 1",
+   "display_owner": "Tax sale \u2014 Cause #202310715 \u2014 Precinct 8 \u2014 Sale 1",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -7759,8 +7815,8 @@
    "lead_id": "lead_unresolved_0960660000006",
    "scored_lead_id": "scored_255a78cea2e81ecf",
    "primary_parcel_id": null,
-   "display_address": "4214 WYATT ST PASADENA TX 77503-2825",
-   "display_owner": "Tax sale \u2014 Cause #21DCV0886 \u2014 Precinct 8 \u2014 EXE 5",
+   "display_address": "LT 6 BLK 2 (HCAD acct 0960660000006)",
+   "display_owner": "Tax sale \u2014 Cause #21DCV0886 \u2014 Precinct 8 \u2014 EXE 4",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -7872,7 +7928,7 @@
    "scored_lead_id": "scored_e0af30c9d300d9e3",
    "primary_parcel_id": null,
    "display_address": "815 SPATES ST CHANNELVIEW TX 77530",
-   "display_owner": "Tax sale \u2014 Cause #202146266 \u2014 Precinct 3 \u2014 SALE 6",
+   "display_owner": "Tax sale \u2014 Cause #202146266 \u2014 Precinct 3 \u2014 Sale 6",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -7984,7 +8040,7 @@
    "scored_lead_id": "scored_df286dc4941509a2",
    "primary_parcel_id": null,
    "display_address": "0 IDLEWOOD RDWY NEW CANEY TX 77357",
-   "display_owner": "Tax sale \u2014 Cause #202036907 \u2014 Precinct 3 \u2014 SALE 1",
+   "display_owner": "Tax sale \u2014 Cause #202036907 \u2014 Precinct 3 \u2014 Sale 1",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -8040,7 +8096,7 @@
    "scored_lead_id": "scored_cd8e484d4fe4a1c0",
    "primary_parcel_id": null,
    "display_address": "0 IDLEWOOD RDWY NEW CANEY TX 77357",
-   "display_owner": "Tax sale \u2014 Cause #202036907 \u2014 Precinct 3 \u2014 SALE 2",
+   "display_owner": "Tax sale \u2014 Cause #202036907 \u2014 Precinct 3 \u2014 Sale 2",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -8096,7 +8152,7 @@
    "scored_lead_id": "scored_55a89bdaa0e8843d",
    "primary_parcel_id": null,
    "display_address": "17503 S PAZAREE CT CROSBY TX 77532",
-   "display_owner": "Tax sale \u2014 Cause #202036907 \u2014 Precinct 3 \u2014 SALE 3",
+   "display_owner": "Tax sale \u2014 Cause #202036907 \u2014 Precinct 3 \u2014 Sale 3",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -8264,7 +8320,7 @@
    "scored_lead_id": "scored_1341cde6ce736f9e",
    "primary_parcel_id": null,
    "display_address": "0 TEXAS ST TOMBALL TX 77375",
-   "display_owner": "Tax sale \u2014 Cause #202266884 \u2014 Precinct 4 \u2014 SALE 5",
+   "display_owner": "Tax sale \u2014 Cause #202266884 \u2014 Precinct 4 \u2014 Sale 5",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -8320,7 +8376,7 @@
    "scored_lead_id": "scored_cdec1e44764ce9b3",
    "primary_parcel_id": null,
    "display_address": "0 HUMBLE WESTFIELD R HUMBLE TX 77338",
-   "display_owner": "Tax sale \u2014 Cause #202037059 \u2014 Precinct 4 \u2014 SALE 2",
+   "display_owner": "Tax sale \u2014 Cause #202037059 \u2014 Precinct 4 \u2014 Sale 2",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -8415,62 +8471,6 @@
    ],
    "evidence_ids": [
     "ev_64eb2660a66c81bf"
-   ],
-   "primary_event_date": null,
-   "review_flags": [
-    "parcel_resolution_review_required",
-    "matched_lead_review_reason:owner_not_on_document"
-   ],
-   "enrichment_status": "UNENRICHED",
-   "display_parcel": "",
-   "primary_source_urls": [
-    "https://www.hctax.net/Property/TaxSales/Index"
-   ]
-  },
-  {
-   "lead_id": "lead_unresolved_1021780000009",
-   "scored_lead_id": "scored_ef67c9892a115538",
-   "primary_parcel_id": null,
-   "display_address": "TR 9 BLK 7 (HCAD acct 1021780000009)",
-   "display_owner": "Tax sale \u2014 Cause #21DCV0886 \u2014 Precinct 8 \u2014 EXE 4",
-   "display_score": 55,
-   "display_tier": "Workable",
-   "display_patterns": [
-    "tax"
-   ],
-   "stack_contrib_patterns": [
-    "tax"
-   ],
-   "display_pattern_set": [
-    "tax"
-   ],
-   "display_attributes": [],
-   "display_deal_paths": [
-    "wholesale"
-   ],
-   "display_deal_path_details": [
-    {
-     "path": "wholesale",
-     "confidence": "moderate",
-     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-    }
-   ],
-   "display_title_complexity_tier": "None",
-   "display_lead_status": "REVIEW_REQUIRED",
-   "display_assessed_value": null,
-   "display_last_sale_price": null,
-   "display_last_sale_date": null,
-   "display_year_built": null,
-   "display_match_confidence": 0,
-   "stack_depth": 1,
-   "score_reasons": [
-    {
-     "factor": "base_TAX_DEED",
-     "delta": 55
-    }
-   ],
-   "evidence_ids": [
-    "ev_f35b6e715b1c321b"
    ],
    "primary_event_date": null,
    "review_flags": [
@@ -8600,7 +8600,7 @@
    "scored_lead_id": "scored_8a7a2d8175302f53",
    "primary_parcel_id": null,
    "display_address": "1651 LOUETTA RD SPRING TX 77388",
-   "display_owner": "Tax sale \u2014 Cause #202442450 \u2014 Precinct 4 \u2014 SALE 9",
+   "display_owner": "Tax sale \u2014 Cause #202442450 \u2014 Precinct 4 \u2014 Sale 9",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -8712,7 +8712,7 @@
    "scored_lead_id": "scored_51344f55a6adfa61",
    "primary_parcel_id": null,
    "display_address": "1107 SOUTHERN HILLS RD KINGWOOD TX 77339",
-   "display_owner": "Tax sale \u2014 Cause #202132112 \u2014 Precinct 4 \u2014 SALE 4",
+   "display_owner": "Tax sale \u2014 Cause #202132112 \u2014 Precinct 4 \u2014 Sale 4",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -8768,7 +8768,7 @@
    "scored_lead_id": "scored_ed10601702101c1d",
    "primary_parcel_id": null,
    "display_address": "0 FOREST TRAIL DR CHANNELVIEW TX 77530",
-   "display_owner": "Tax sale \u2014 Cause #202130537 \u2014 Precinct 3 \u2014 SALE 4",
+   "display_owner": "Tax sale \u2014 Cause #202130537 \u2014 Precinct 3 \u2014 Sale 4",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -8880,7 +8880,7 @@
    "scored_lead_id": "scored_808bc6baade85af6",
    "primary_parcel_id": null,
    "display_address": "1216 BOOKERTEE ST. BAYTOWN TX 77520",
-   "display_owner": "Tax sale \u2014 Cause #202083789 \u2014 Precinct 8 \u2014 RESALE 3",
+   "display_owner": "Tax sale \u2014 Cause #202083789 \u2014 Precinct 8 \u2014 ReSale 3",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -8936,7 +8936,7 @@
    "scored_lead_id": "scored_f043cc516183d542",
    "primary_parcel_id": null,
    "display_address": "0 SOUTHSHORE DR HUMBLE TX 77338",
-   "display_owner": "Tax sale \u2014 Cause #201834120 \u2014 Precinct 4 \u2014 SALE 1",
+   "display_owner": "Tax sale \u2014 Cause #201834120 \u2014 Precinct 4 \u2014 Sale 1",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -9048,7 +9048,7 @@
    "scored_lead_id": "scored_58eed2e75c978fba",
    "primary_parcel_id": null,
    "display_address": "2505 8TH ST GALENA PARK TX 77547",
-   "display_owner": "Tax sale \u2014 Cause #202487320 \u2014 Precinct 2 \u2014 SALE 4",
+   "display_owner": "Tax sale \u2014 Cause #202487320 \u2014 Precinct 2 \u2014 Sale 4",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -9776,7 +9776,7 @@
    "scored_lead_id": "scored_834efc59fcc8ac3a",
    "primary_parcel_id": null,
    "display_address": "1900 W. GULF ST. BAYTOWN TX 77520",
-   "display_owner": "Tax sale \u2014 Cause #202533585 \u2014 Precinct 8 \u2014 SALE 3",
+   "display_owner": "Tax sale \u2014 Cause #202533585 \u2014 Precinct 8 \u2014 Sale 3",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -9832,7 +9832,7 @@
    "scored_lead_id": "scored_62897d9863a87db2",
    "primary_parcel_id": null,
    "display_address": "25510 THISTLEWAITE LN SPRING TX 77373",
-   "display_owner": "Tax sale \u2014 Cause #202437644 \u2014 Precinct 4 \u2014 SALE 8",
+   "display_owner": "Tax sale \u2014 Cause #202437644 \u2014 Precinct 4 \u2014 Sale 8",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -10168,7 +10168,7 @@
    "scored_lead_id": "scored_21b8c89504f05325",
    "primary_parcel_id": null,
    "display_address": "LT 54 BLK 2 (HCAD acct 1157600020054)",
-   "display_owner": "Tax sale \u2014 Cause #202208446 \u2014 Precinct 5 \u2014 SALE 1",
+   "display_owner": "Tax sale \u2014 Cause #202208446 \u2014 Precinct 5 \u2014 Sale 1",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -10392,7 +10392,7 @@
    "scored_lead_id": "scored_2ddd6e2b96a31791",
    "primary_parcel_id": null,
    "display_address": "609 S. PRUETT ST. BAYTOWN TX 77520",
-   "display_owner": "Tax sale \u2014 Cause #202349878 \u2014 Precinct 8 \u2014 RESALE 9",
+   "display_owner": "Tax sale \u2014 Cause #202349878 \u2014 Precinct 8 \u2014 ReSale 9",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -10783,7 +10783,7 @@
    "lead_id": "lead_unresolved_1184450010010",
    "scored_lead_id": "scored_7fd6a08ab7f7da82",
    "primary_parcel_id": null,
-   "display_address": "LT 10 BLK 1 (HCAD acct 1184450010010)",
+   "display_address": "4214 WYATT ST PASADENA TX 77503-2825",
    "display_owner": "Tax sale \u2014 Cause #21DCV0886 \u2014 Precinct 8 \u2014 EXE 3",
    "display_score": 55,
    "display_tier": "Workable",
@@ -10952,7 +10952,7 @@
    "scored_lead_id": "scored_75d496cdd135b643",
    "primary_parcel_id": null,
    "display_address": "27123 W HARDY RD SPRING TX 77373",
-   "display_owner": "Tax sale \u2014 Cause #202580177 \u2014 Precinct 4 \u2014 SALE 11",
+   "display_owner": "Tax sale \u2014 Cause #202580177 \u2014 Precinct 4 \u2014 Sale 11",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -16888,7 +16888,7 @@
    "scored_lead_id": "scored_49cd7282ed1c7ffd",
    "primary_parcel_id": null,
    "display_address": "LT 1 BLK 6 (HCAD acct 1322620060001)",
-   "display_owner": "Tax sale \u2014 Cause #202483842 \u2014 Precinct 3 \u2014 EOS 2",
+   "display_owner": "Tax sale \u2014 Cause #202429046 \u2014 Precinct 3 \u2014 EOS 2",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -17448,7 +17448,7 @@
    "scored_lead_id": "scored_1dbad2ff1fd284e7",
    "primary_parcel_id": null,
    "display_address": "19214 ADOBE CANYON LN TOMBALL TX 77377",
-   "display_owner": "Tax sale \u2014 Cause #202571136 \u2014 Precinct 4 \u2014 SALE 10",
+   "display_owner": "Tax sale \u2014 Cause #202571136 \u2014 Precinct 4 \u2014 Sale 10",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -17616,7 +17616,7 @@
    "scored_lead_id": "scored_e55ab2698e702305",
    "primary_parcel_id": null,
    "display_address": "23239 TREE HOUSE LN SPRING TX 77373",
-   "display_owner": "Tax sale \u2014 Cause #202329371 \u2014 Precinct 4 \u2014 SALE 7",
+   "display_owner": "Tax sale \u2014 Cause #202329371 \u2014 Precinct 4 \u2014 Sale 7",
    "display_score": 55,
    "display_tier": "Workable",
    "display_patterns": [
@@ -97374,6 +97374,218 @@
    "display_parcel": ""
   },
   {
+   "lead_id": "lead_unresolved_OWNER-HC-RP-2026-99881",
+   "scored_lead_id": "scored_affb78102ce6cb99",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "MOLAVI AMIR H | MOLAVI AMIR HASSAN | MOLAVI NILOUFAR K | MOLAVI NILOUFAR KHATIBLOU | MOLAVI AMIR HASSAN | MOLAVI LIVING TRUST | MOLAVI NILOUFAR KHATIBLOU",
+   "display_score": 25,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIVING_TRUST_OWNER_NAME_PATTERN",
+     "delta": 25
+    }
+   ],
+   "evidence_ids": [
+    "ev_04b69b860906a15f"
+   ],
+   "primary_event_date": null,
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": ""
+  },
+  {
+   "lead_id": "lead_unresolved_OWNER-HC-RP-2026-99882",
+   "scored_lead_id": "scored_82524022584ccdac",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "JOE DAVID | JOE JEANNIE W | DAVID AND JEANNIE JOE LIVING TRUST | JOE DAVID | JOE JEANNIE WONG",
+   "display_score": 25,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIVING_TRUST_OWNER_NAME_PATTERN",
+     "delta": 25
+    }
+   ],
+   "evidence_ids": [
+    "ev_017e5164d283b83c"
+   ],
+   "primary_event_date": null,
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": ""
+  },
+  {
+   "lead_id": "lead_unresolved_OWNER-HC-RP-2026-99883",
+   "scored_lead_id": "scored_9f22fb242c8b68dd",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "CHAN IDA MAY-YUE | WONG GEORGE KWOK KAI | CHAN IDA | WONG GEORGE | WONG LIVING TRUST",
+   "display_score": 25,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIVING_TRUST_OWNER_NAME_PATTERN",
+     "delta": 25
+    }
+   ],
+   "evidence_ids": [
+    "ev_d9261153a66cb987"
+   ],
+   "primary_event_date": null,
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": ""
+  },
+  {
+   "lead_id": "lead_unresolved_OWNER-HC-RP-2026-99884",
+   "scored_lead_id": "scored_011129a1363c33b6",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "LAKEVIEW LOAN SERVICING LLC | LOANCARE LLC | BHANUCHAND TRUST | GOLLAPUDI VINATHA | PARUCHURI BHANUCHAND | PASHAM SRIDHAR REDDY | VINATHA TRUST",
+   "display_score": 25,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIVING_TRUST_OWNER_NAME_PATTERN",
+     "delta": 25
+    }
+   ],
+   "evidence_ids": [
+    "ev_800cc9364c3608ad"
+   ],
+   "primary_event_date": null,
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": ""
+  },
+  {
    "lead_id": "lead_unresolved_OWNER-HC-RP-2026-99970",
    "scored_lead_id": "scored_3cc56ccfc7fa4e66",
    "primary_parcel_id": null,
@@ -97531,6 +97743,2638 @@
    ],
    "enrichment_status": "UNENRICHED",
    "display_parcel": ""
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-57176",
+   "scored_lead_id": "scored_f321108a6a6263ec",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "HERNANDEZ CARLOS ENRIQUE | HERNANDEZ JORGE LUIS",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_4772555a3530fdd8"
+   ],
+   "primary_event_date": "02/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-57488",
+   "scored_lead_id": "scored_b52b574e5fc71b1f",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "LISMORE LAKE HOMEOWNERS ASSOCIATION INC | BOULOS VICTORIA | HLAIHEL GEORGE J",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_fc5766e35539801b"
+   ],
+   "primary_event_date": "02/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-57496",
+   "scored_lead_id": "scored_43975c105814a7da",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "S-G II OWNERS ASSOCIATION INC | HERD GERALD",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_3f1a545170e4e407"
+   ],
+   "primary_event_date": "02/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-57514",
+   "scored_lead_id": "scored_5472e153421ff8c4",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "CANYON VILLAGE AT PARK LAKES PROPERTY OWNERS ASSOCIATION INC | DIBBLE BRITTNY",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_76e9e26759bdeee0"
+   ],
+   "primary_event_date": "02/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-57515",
+   "scored_lead_id": "scored_1dff218959b04d69",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "S-G II OWNERS ASSOCIATION INC | ARAUZ CARLOS L",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_2c1e02ee4db70efb"
+   ],
+   "primary_event_date": "02/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-57517",
+   "scored_lead_id": "scored_541bf5fb343e68a6",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "S-G II OWNERS ASSOCIATION INC | GOINES GERALD",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_b6551adddf7d23a7"
+   ],
+   "primary_event_date": "02/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-57523",
+   "scored_lead_id": "scored_02a95b929904b851",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "S-G II OWNERS ASSOCIATION INC | GHOBAR CHRIS AMIR",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_e0daa49934d47868"
+   ],
+   "primary_event_date": "02/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-57526",
+   "scored_lead_id": "scored_6027eb757a670e34",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "S-G II OWNERS ASSOCIATION INC | BEATON TARA",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_cd1798b62e63ddbc"
+   ],
+   "primary_event_date": "02/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-57541",
+   "scored_lead_id": "scored_b3f71eb24fb858a9",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "OLDE OAKS COMMUNITY IMPROVEMENT ASSOCIATION INC | HOPKINS ENOLA M",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_2dbcbd112b052419"
+   ],
+   "primary_event_date": "02/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-57817",
+   "scored_lead_id": "scored_d7d984dd666304d2",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "FRANKS PRISCILLA | MAYFIELD DARRELL",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_a034c28820af03bc"
+   ],
+   "primary_event_date": "02/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-57821",
+   "scored_lead_id": "scored_babe496f97d5c71a",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "VILLAGES OF LANGHAM CREEK PROPERTY OWNERS ASSOCIATION INC | ALAS JOSE BERNARDO | ALVARENGA NELY PATRICIA",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_04d027f1e3ce12a6"
+   ],
+   "primary_event_date": "02/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-57893",
+   "scored_lead_id": "scored_8e070e0f833a3fca",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "BELMONT PARK ASSOCIATION | ONOFRE ALBERT I",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_9309e7718846822d"
+   ],
+   "primary_event_date": "02/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-579",
+   "scored_lead_id": "scored_50eac530af2435b9",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "MISSION BEND CIVIC ASSOCIATION INC | PARADA MANGLIO DANILO | PARADA MARIA M ESCOTO",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_8beafd81be2f6573"
+   ],
+   "primary_event_date": "01/02/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-57921",
+   "scored_lead_id": "scored_5c12566a53c5b9d4",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "VILLAGES OF CYPRESS LAKES COMMUNITY ASSOCIATION INC | HERRERA FRANK | HERRERA SANDEE R",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_f1018fa88a186ce5"
+   ],
+   "primary_event_date": "02/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-57971",
+   "scored_lead_id": "scored_2447bff999f25aa2",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "VILLAGES OF CYPRESS LAKES COMMUNITY ASSOCIATION INC | DANG QUOC",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_08b8b187f080ab88"
+   ],
+   "primary_event_date": "02/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-58051",
+   "scored_lead_id": "scored_8cfd28132517fe1c",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "HUDSON OAKS SECTION 2 TOWNHOMES OWNERS' ASSOCIATION INC | NGUYEN LONG | NGUYEN MARY THU",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_814b3323235140a5"
+   ],
+   "primary_event_date": "02/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-58459",
+   "scored_lead_id": "scored_51b1233b907f66fd",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "LAKEWOOD FOREST FUND INC | RAGLAND RICHARD KENT",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_a688b2adcdd3daee"
+   ],
+   "primary_event_date": "02/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-59461",
+   "scored_lead_id": "scored_11a5c3d2adf051f2",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "OLDE OAKS COMMUNITY IMPROVEMENT ASSOCIATION INC | HUYNH SANDY | NGO ANDY LE",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_4b098fc89af7f115"
+   ],
+   "primary_event_date": "02/18/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-59644",
+   "scored_lead_id": "scored_d5179d0caf31fca4",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "CYPRESSWOOD COMMUNITY ASSOCIATION | LOPEZ BREVELIN DAYANA GONZALEZ",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_b29faf655958563a"
+   ],
+   "primary_event_date": "02/18/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-59666",
+   "scored_lead_id": "scored_10e2102c80664402",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "CYPRESSWOOD COMMUNITY ASSOCIATION | LUONG CONG THANH",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_8df884a193daf821"
+   ],
+   "primary_event_date": "02/18/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-60384",
+   "scored_lead_id": "scored_ec75dda52a482252",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "OLDE OAKS COMMUNITY IMPROVEMENT ASSOCIATION INC | JOSEPH FELICITA E",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_eb4b9e718c51e12d"
+   ],
+   "primary_event_date": "02/18/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-60391",
+   "scored_lead_id": "scored_11301a76d8395493",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "OLDE OAKS COMMUNITY IMPROVEMENT ASSOCIATION INC | MENDOZA ANDREW | MENDOZA MARCUS",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_e1e56604461e9dec"
+   ],
+   "primary_event_date": "02/18/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-60402",
+   "scored_lead_id": "scored_a7ce45d5d6c43690",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "OLDE OAKS COMMUNITY IMPROVEMENT ASSOCIATION INC | ROBERTS LEIANNE",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_4c860180e1cb6a78"
+   ],
+   "primary_event_date": "02/18/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-60487",
+   "scored_lead_id": "scored_718bab275d2e1bec",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "OLDE OAKS COMMUNITY IMPROVEMENT ASSOCIATION INC | CARO TERESA MARTELL | MARTELL ANDRY FIGUEROA",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_c5b4362b0a74d569"
+   ],
+   "primary_event_date": "02/18/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-60491",
+   "scored_lead_id": "scored_0a1482aa1ceaa070",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "LISMORE LAKE HOMEOWNERS ASSOCIATION INC | TRAN NHI THIEN",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_df1f1088588c1fe0"
+   ],
+   "primary_event_date": "02/18/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-60502",
+   "scored_lead_id": "scored_23e945aa94013b62",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "OLDE OAKS COMMUNITY IMPROVEMENT ASSOCIATION INC | OJEAH ELESTER RENEE",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_bab6c5e91de66669"
+   ],
+   "primary_event_date": "02/18/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-60503",
+   "scored_lead_id": "scored_dd59e96cf9a40b95",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "OGUNDARE ALEX | OLDE OAKS COMMUNITY IMPROVEMENT ASSOCIATION INC | MENG SODAN",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_f6214fea21fa1c48"
+   ],
+   "primary_event_date": "02/18/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-60541",
+   "scored_lead_id": "scored_378e5d5579bc1e0b",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "SAGEGLEN COMMUNITY ASSOCIATION | LONGORIA EDWARD",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_90583d5961a05d05"
+   ],
+   "primary_event_date": "02/18/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-60550",
+   "scored_lead_id": "scored_a8b4dd66a4cda0c3",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "SUNRISE PINES HOMEOWNERS ASSOCIATION INC | IZAGUIRRE ROBERTO",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_878d303c958f25ec"
+   ],
+   "primary_event_date": "02/18/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-6056",
+   "scored_lead_id": "scored_33a3c4e7af3b1fa3",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "WINDFERN GARDENS CIVIC IMPROVEMENT ASSOCIATION | ABERNATHY FRANK | LARSON SHANNON | NADEAU EDMOND | NADEAU GWENDOLYN J EST",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_752f30aae8c75fc4"
+   ],
+   "primary_event_date": "01/07/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-60812",
+   "scored_lead_id": "scored_5f0f956dca60a289",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "MOKARAM ALI | DALIO HOLDINGS",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_881951f5542d2474"
+   ],
+   "primary_event_date": "02/18/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-60813",
+   "scored_lead_id": "scored_becad6114d739594",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "MOKARAM ALI | DALIO HOLDINGS ETAL LLC",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_91d17d00b8575b53"
+   ],
+   "primary_event_date": "02/18/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-60814",
+   "scored_lead_id": "scored_0ce2bb791e448feb",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "MOKARAM ALI | DALIO HOLDINGS ETAL LLC",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_0a82a15312e13657"
+   ],
+   "primary_event_date": "02/18/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-60815",
+   "scored_lead_id": "scored_2dfa3e3569101051",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "MOKARAM ALI | DALIO HOLDINGS ETAL LLC",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_275d3080c74977df"
+   ],
+   "primary_event_date": "02/18/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-60816",
+   "scored_lead_id": "scored_4723f232b7e0dcd0",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "MOKARAM ALI | DALIO HOLDINGS",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_2f1c4532b859d327"
+   ],
+   "primary_event_date": "02/18/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-6098",
+   "scored_lead_id": "scored_fa88d4083133dd00",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "MISSION BEND CIVIC ASSOCIATION INC | SEALS FLOYD LEE",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_9debb327d620e08c"
+   ],
+   "primary_event_date": "01/07/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-6120",
+   "scored_lead_id": "scored_080c494548c28692",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "OAKS OF ATASCOCITA COMMUNITY IMPROVEMENT ASSOCIATION | FORD CHRISTINA | FORD SCOTT",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_dd910a758b55f390"
+   ],
+   "primary_event_date": "01/07/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-613",
+   "scored_lead_id": "scored_27a2edb33cf550bb",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "GEORGIADIS SARA LOUISE MCGIFFIN EST | PURSLEY TERESA I | GEORGIADIS GERMAINE | SEE INSTRUMENT",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_9e3061522698dee6"
+   ],
+   "primary_event_date": "01/02/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-6276",
+   "scored_lead_id": "scored_9723a7e47907f416",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "VENTANA LAKES COMMUNITY ASSOCIATION INC | ABAD ARCIDES SOCA",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_e3ba2694050ddb44"
+   ],
+   "primary_event_date": "01/07/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-6286",
+   "scored_lead_id": "scored_70ec5cf2bc305089",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "WALNUT BEND HOME ASSOCIATION INC | GARRETT SHANEQUA RENEE",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_15cc1a48e9f0be94"
+   ],
+   "primary_event_date": "01/07/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-62900",
+   "scored_lead_id": "scored_80047f0db2d1de5b",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "BASIR LOAY | BASIR JAMES OWDA",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_37b831d6e4d757a7"
+   ],
+   "primary_event_date": "02/19/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-6314",
+   "scored_lead_id": "scored_302eeabe28ada420",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "VENTANA LAKES COMMUNITY ASSOCIATION INC | CLEE ALEXANDER CHARLES | CLEE AMY",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_856b52165540c925"
+   ],
+   "primary_event_date": "01/07/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-6380",
+   "scored_lead_id": "scored_cbbc7ad2c019f8c3",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "CARRINGTON MORTGAGE SERVICES | DOES 1 | DOES 10 | DOES 2 | DOES 3 | DOES 4 | DOES 5 | DOES 6 | DOES 7 | DOES 8 | DOES 9 | KMIECIK DAVID | KMIECIK KIMBERLY | ROES BUSINESS ENTITIES 1 | ROES BUSINESS ENTITIES 10 | ROES BUSINESS ENTITIES 2 | ROES BUSINESS ENTITIES 3 | ROES BUSINESS ENTITIES 4 | ROES BUSINESS ENTITIES 5 | ROES BUSINESS ENTITIES 6 | ROES BUSINESS ENTITIES 7 | ROES BUSINESS ENTITIES 8 | ROES BUSINESS ENTITIES 9 | SECRETARY OF HOUSING AND URBAN DEVELOPMENT",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_be262acb40abe692"
+   ],
+   "primary_event_date": "01/07/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-63801",
+   "scored_lead_id": "scored_22b0c720948cc2f9",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "CLEAR LAKE CITY COMMUNITY ASSOCIATION INC | ROBINSON ERIC",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_5f6c5367cb792a80"
+   ],
+   "primary_event_date": "02/20/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-63949",
+   "scored_lead_id": "scored_0c7d757498df76eb",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "NORTH BRIAR COMMUNITY ASSOCIATION INC | MARTIN JEAN A",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_c230b9d52fb7c137"
+   ],
+   "primary_event_date": "02/20/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-6422",
+   "scored_lead_id": "scored_f8cd47622529d7e5",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "KALKAN FERCAN E | PINEY POINT 2023 LLC | FANNIE MAE | TOSO GAVRIEL",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_c2e9bc6ff35e27e8"
+   ],
+   "primary_event_date": "01/07/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-6423",
+   "scored_lead_id": "scored_d73145c85b3e5812",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "KALKAN FERCAN E | PINEY POINT 2023 LLC | FANNIE MAE | TOSO GAVRIEL",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_c367b816fcdb980e"
+   ],
+   "primary_event_date": "01/07/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
   },
   {
    "lead_id": "lead_unresolved_RP-2026-6451",
@@ -105709,6 +108553,62 @@
    ]
   },
   {
+   "lead_id": "lead_unresolved_RP-2026-98998",
+   "scored_lead_id": "scored_82c63bc4be353144",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "CAPITAL ONE BANK N A | MONTES EMMANUEL",
+   "display_score": 30,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "lien"
+   ],
+   "stack_contrib_patterns": [
+    "lien"
+   ],
+   "display_pattern_set": [
+    "lien"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_JUDGMENT_LIEN",
+     "delta": 30
+    }
+   ],
+   "evidence_ids": [
+    "ev_60e0bef87ecb4c7e"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:known_filer_pattern match: mortgage_lender:BANK N.A."
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
    "lead_id": "lead_unresolved_RP-2026-99226",
    "scored_lead_id": "scored_7b5d10572cf3e97b",
    "primary_parcel_id": null,
@@ -106381,6 +109281,638 @@
    ]
   },
   {
+   "lead_id": "lead_unresolved_RP-2026-99819",
+   "scored_lead_id": "scored_cf51e23754501948",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "MILNER ROY | MILNER ROY GREER III | WINTER VIVIAN LEE EST | MILNER ROY | MILNER ROY GREER III",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_5c9ba9758ac0f9e5"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-9982",
+   "scored_lead_id": "scored_77a730fe50369faa",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "MILLER GREG | NORTHSTONE BUILDERS LLC | MILLER GREG | NORTHSTONE BUILDERS LLC",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_68b4fabb5fd32674"
+   ],
+   "primary_event_date": "01/12/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99820",
+   "scored_lead_id": "scored_6e6e89cf29d9bfdb",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "LIU YULING | LIU YULING | TAO LI",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_e1be63483bce0819"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99829",
+   "scored_lead_id": "scored_87ffea48d8e204a4",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "BISMUTH BRIDGE PROPCO LLC | GRADIS LORVIN SAUL ALVARENGA | MONTOYA KENIA LAGOS | MONTOYA NELY MELISSA LAGOS",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_c494dc5e0492260a"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-9983",
+   "scored_lead_id": "scored_08de3f7041b2cdec",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "LE MINH-NGUYEN T | LE MINH-NGUYET T | JONES XUYEN NGOC | LE MINH-NGUYEN T | LE MINH-NGUYET T | LE XUYEN NGOC",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_bf7eb6d75e610df7"
+   ],
+   "primary_event_date": "01/12/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99831",
+   "scored_lead_id": "scored_7f5df6aeb96ea560",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "BISMUTH BRIDGE PROPCO LLC | GRADIS LORVIN SAUL ALVARENGA | BISMUTH BRIDGE PROPCO LLC | GRADIS LORVIN SAUL ALVARENGA",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_1bf72041bb951bcd"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99833",
+   "scored_lead_id": "scored_54509f9da14e1ddf",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "TOVAR ALBERTO | TOVAR CORINA | GARCIA LOURDES ISABEL SANCHEZ",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_b24c559240be5a97"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99837",
+   "scored_lead_id": "scored_19bfa5fe22f86d3b",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "ATLAS SOIL DRILLING LLC | SALBY AHMED",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_f7743f83f59265df"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99838",
+   "scored_lead_id": "scored_5fcd9c072d05bdf8",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "MEMOVIC MAJA | MEMOVIC SADO | REED JEANETTE",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_ae0104c12ca9c2db"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-9984",
+   "scored_lead_id": "scored_e247263c2d5c8453",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "SECRETARY OF HOUSING AND URBAN DEVELOPMENT | VIDALES PEDRO",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_17d5b574e22e1a56"
+   ],
+   "primary_event_date": "01/12/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99840",
+   "scored_lead_id": "scored_76b85a6e3d0e27df",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "MEMOVIC MAJA | MEMOVIC SADO | REED JEANETTE | MEMOVIC MAJA | MEMOVIC SADO | REED JEANETTE",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_e7008ae4e6b086b5"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99845",
+   "scored_lead_id": "scored_ed5c1f8236e5fb98",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "RBI PRIVATE LENDING LLC | MAEC DEVELOPMENTS LLC",
+   "display_score": 60,
+   "display_tier": "Workable",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_FINAL_JUDGMENT_OF_FORECLOSURE",
+     "delta": 60
+    }
+   ],
+   "evidence_ids": [
+    "ev_7c58a23b92296ed6"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:document_body_debtor_not_extractable"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
    "lead_id": "lead_unresolved_RP-2026-99846",
    "scored_lead_id": "scored_48e30975e601d968",
    "primary_parcel_id": null,
@@ -106429,6 +109961,1688 @@
    "review_flags": [
     "parcel_resolution_review_required",
     "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99851",
+   "scored_lead_id": "scored_3e4cd54b77e93bfa",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "CLEARWATER ST PROJECT LLC | WILLIAMS BENJAMIN SHANNE JR",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_d79dbd94ef84b850"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99860",
+   "scored_lead_id": "scored_fe7fe7e40a8945d6",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "WYCHE JAMES D | VANDERBILT MORTGAGE AND FINANCE INC",
+   "display_score": 60,
+   "display_tier": "Workable",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_FINAL_JUDGMENT_OF_FORECLOSURE",
+     "delta": 60
+    }
+   ],
+   "evidence_ids": [
+    "ev_8cf0dd8edafd1f7c"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:document_body_debtor_not_extractable"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99862",
+   "scored_lead_id": "scored_be4f89d98bae839c",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "ASHBEL COVE COMMUNITY ASSOCIATION | FARINE TRISHA TAYLOR | SEMIEN DRAKE A | SEMIEN KAILA J",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_053070b45c28868f"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99863",
+   "scored_lead_id": "scored_732d7dae85620802",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "VANDERBILT MORTGAGE AND FINANCE INC | JOHNSON DARRELL D",
+   "display_score": 60,
+   "display_tier": "Workable",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_FINAL_JUDGMENT_OF_FORECLOSURE",
+     "delta": 60
+    }
+   ],
+   "evidence_ids": [
+    "ev_9030fed92534b36d"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:document_body_debtor_not_extractable"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99865",
+   "scored_lead_id": "scored_317d3d6fbd613487",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "EPIDEMIOLOGY SOLUTIONS LLC | CHAMBRES ANTHONY BLAKE",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_0876ec6d330eaf61"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99873",
+   "scored_lead_id": "scored_052b1a94b2af77a1",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "PAGE DARYL K | PAGE GEORGE WRAY III | HARKOR HOMES LLC",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_12df4684058494ed"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99874",
+   "scored_lead_id": "scored_cb1fb2c4db360d95",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "WILLIAMS-SURZANO MASON | U S DEPARTMENT OF JUSTICE | UNITED STATES",
+   "display_score": 45,
+   "display_tier": "Low",
+   "display_patterns": [
+    "tax"
+   ],
+   "stack_contrib_patterns": [
+    "tax"
+   ],
+   "display_pattern_set": [
+    "tax"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_STATE_TAX_LIEN",
+     "delta": 45
+    }
+   ],
+   "evidence_ids": [
+    "ev_a8d46902e1e4f3c8"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type TP missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99875",
+   "scored_lead_id": "scored_e3bbcf45b813db67",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "BACH COLLEEN SHEA | BACH GARRY JOEL | BACH LAURA JEAN",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_5496199121a64acd"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-9988",
+   "scored_lead_id": "scored_19f0ddd3fe574509",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "TAYLOR MORRISON OF TEXAS INC | LARA JESSICA LYNN | LARA JESSY JR",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_8cf90fc6b57d5e38"
+   ],
+   "primary_event_date": "01/12/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99880",
+   "scored_lead_id": "scored_5f20dfc0caf61fee",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "ANICETO ISMAEL PANTALEON | ARAISA MARTHA ANGELICA SOLORIO | REYNA MARIA GUADALUPE | ANICETO ISMAEL PANTALEON | ARAISA MARTHA ANGELICA SOLORIO | REYNA MARIA GUADALUPE",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_8534b2f0d2cfa75c"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99881",
+   "scored_lead_id": "scored_f7318d23d22fa326",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "MOLAVI AMIR H | MOLAVI AMIR HASSAN | MOLAVI NILOUFAR K | MOLAVI NILOUFAR KHATIBLOU | MOLAVI AMIR HASSAN | MOLAVI LIVING TRUST | MOLAVI NILOUFAR KHATIBLOU",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_58f87c86940a3d70"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99882",
+   "scored_lead_id": "scored_b75ec32e910f0481",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "JOE DAVID | JOE JEANNIE W | DAVID AND JEANNIE JOE LIVING TRUST | JOE DAVID | JOE JEANNIE WONG",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_2a52b7c8df48f830"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99883",
+   "scored_lead_id": "scored_87f2127eea3d14bd",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "CHAN IDA MAY-YUE | WONG GEORGE KWOK KAI | CHAN IDA | WONG GEORGE | WONG LIVING TRUST",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_e798395216edea52"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99884",
+   "scored_lead_id": "scored_7478b26670c3cf14",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "LAKEVIEW LOAN SERVICING LLC | LOANCARE LLC | BHANUCHAND TRUST | GOLLAPUDI VINATHA | PARUCHURI BHANUCHAND | PASHAM SRIDHAR REDDY | VINATHA TRUST",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_a3ca43a38dad4496"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99888",
+   "scored_lead_id": "scored_0665debea1820dcc",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "CAMPOS CARMEN LIDIA | GONZALEZ ALVARO | MACICEK LIDIETH | MARQUINA ABIGAIL | MARQUINA ISMAEL",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_72d26ccb1f29c4ec"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-9990",
+   "scored_lead_id": "scored_ab7db2b9bc0ce855",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "LARA JESSICA LYNN | LARA JESSY JR | TAYLOR MORRISON OF TEXAS INC | LARA JESSICA LYNN | LARA JESSY JR | TAYLOR MORRISON OF TEXAS INC",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_ac40039b898b1f08"
+   ],
+   "primary_event_date": "01/12/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-9991",
+   "scored_lead_id": "scored_783be303a84b0af7",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "HAVERSTOCK HILLS PRESERVATION WEST LLC | HAVERSTOCK HILLS WEST | HOUSTON HOUSING FINANCE CORPORATION | FEDERAL HOME LOAN MORTGAGE CORPORATION",
+   "display_score": 60,
+   "display_tier": "Workable",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_FINAL_JUDGMENT_OF_FORECLOSURE",
+     "delta": 60
+    }
+   ],
+   "evidence_ids": [
+    "ev_f2ed5e3a11c94fd4"
+   ],
+   "primary_event_date": "01/12/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:document_body_debtor_not_extractable"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-9992",
+   "scored_lead_id": "scored_b05026e3902c4a56",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "HAVERSTOCK HILLS EAST | HAVERSTOCK HILLS PRESERVATION EAST LLC | HOUSTON HOUSING FINANCE CORPORATION | FEDERAL HOME LOAN MORTGAGE CORPORATION",
+   "display_score": 60,
+   "display_tier": "Workable",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_FINAL_JUDGMENT_OF_FORECLOSURE",
+     "delta": 60
+    }
+   ],
+   "evidence_ids": [
+    "ev_1e854b5f95adef70"
+   ],
+   "primary_event_date": "01/12/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:document_body_debtor_not_extractable"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99923",
+   "scored_lead_id": "scored_c6fac297975f599f",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "CARTAGENA ROSA ESCOBAR | SERRANO BETY ALEMAN",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_e9144f2edb951799"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99924",
+   "scored_lead_id": "scored_e60ee3b9802c971b",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "SERRANO BETY | SERRANO BETY ALEMAN | MONTERROSA MARIA",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_0d2739d17c9d0395"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99928",
+   "scored_lead_id": "scored_9cea0da50e5abd99",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "BIBBS DORIS MARIE EST | HOWARD LAWSON EARL JR | HOWARD LAWSON EARL JR",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_820c5b6188c58793"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-9993",
+   "scored_lead_id": "scored_55f9354dec045180",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "COOLWOOD OAKS | COOLWOOD OAKS PRESERVATION LLC | HOUSTON HOUSING FINANCE CORPORATION | FEDERAL HOME LOAN MORTGAGE CORPORATION",
+   "display_score": 60,
+   "display_tier": "Workable",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_FINAL_JUDGMENT_OF_FORECLOSURE",
+     "delta": 60
+    }
+   ],
+   "evidence_ids": [
+    "ev_154cd41997a6e815"
+   ],
+   "primary_event_date": "01/12/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:document_body_debtor_not_extractable"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99930",
+   "scored_lead_id": "scored_14cd8c352678ba2d",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "BROOKHIM ISAAC SAM | BROOKHIM ESTHER",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_fc93958c40d9b28f"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99931",
+   "scored_lead_id": "scored_51dd2b2934e1aaea",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "D R HORTON - TEXAS LTD | D R HORTON INC | NOLASCO IGNACIO JR",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_43119ff01d1e942d"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99933",
+   "scored_lead_id": "scored_0132a2ba1aaca15f",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "D R HORTON - TEXAS LTD | D R HORTON INC | NOLASCO IGNACIO JR | D R HORTON - TEXAS LTD | D R HORTON INC | NOLASCO IGNACIO JR",
+   "display_score": 35,
+   "display_tier": "Low",
+   "display_patterns": [
+    "foreclosure"
+   ],
+   "stack_contrib_patterns": [
+    "foreclosure"
+   ],
+   "display_pattern_set": [
+    "foreclosure"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "moderate",
+     "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [
+    {
+     "factor": "base_LIS_PENDENS",
+     "delta": 35
+    }
+   ],
+   "evidence_ids": [
+    "ev_46b96357776609e1"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:expected_debtor_name_type DF missing"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99936",
+   "scored_lead_id": "scored_1d87af588b511d1a",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "EVAN LLOYD PROPERTIES INC | BLACK ROCK BUILDERS | BLACK ROCK RESTORATION LLC",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_54e7950d52e8163e"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99940",
+   "scored_lead_id": "scored_d7460b1656fe5f4c",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "ISAAC CELICIA JUDITH | ISAAC JONATHAN ANDREW | ISAAC JONATHAN ANDREW",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_558da06b4db20a06"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99941",
+   "scored_lead_id": "scored_ac05c63d2dcd14ba",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "ISAAC JONATHAN ANDREW | DELGADO ADOLFO MARTINEZ | DELGADO ARACELY G",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_5763b25f676cdaee"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99944",
+   "scored_lead_id": "scored_95cbcd3573498fd8",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "MARTINEZ ESTELA | MARTINEZ PAUL | CORTEZ AUGUSTINA JEAN | HERNANDEZ JAZMIN | MARTINEZ ESTELA | MARTINEZ PAUL",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_49c0c3ae26713e05"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99945",
+   "scored_lead_id": "scored_e74da759ff1e6fa1",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "MORIN CESAR TROY | LAND FAST OFFERS LLC",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_78c4746e7bcea8de"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99948",
+   "scored_lead_id": "scored_c6a322b8831ce246",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "DISCH BEVERLY KAY | DISCH FREDERICK KENNETH EST | DISCH BEVERLY K | DISCH BEVERLY KAY",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_0fecbb4ec10f31f0"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
+   ],
+   "enrichment_status": "UNENRICHED",
+   "display_parcel": "",
+   "primary_source_urls": [
+    "https://cclerk.hctx.net/applications/websearch/FRCL_R.aspx"
+   ]
+  },
+  {
+   "lead_id": "lead_unresolved_RP-2026-99956",
+   "scored_lead_id": "scored_dc476cfd8ce2fd7d",
+   "primary_parcel_id": null,
+   "display_address": "HCAD acct",
+   "display_owner": "QUIROGA LUCANO AXAYACATL | GARCIA MAGDALENA RODRIGUEZ",
+   "display_score": 0,
+   "display_tier": "Archive",
+   "display_patterns": [
+    "transfer"
+   ],
+   "stack_contrib_patterns": [
+    "transfer"
+   ],
+   "display_pattern_set": [
+    "transfer"
+   ],
+   "display_attributes": [],
+   "display_deal_paths": [
+    "wholesale"
+   ],
+   "display_deal_path_details": [
+    {
+     "path": "wholesale",
+     "confidence": "low",
+     "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+    }
+   ],
+   "display_title_complexity_tier": "None",
+   "display_lead_status": "REVIEW_REQUIRED",
+   "display_assessed_value": null,
+   "display_last_sale_price": null,
+   "display_last_sale_date": null,
+   "display_year_built": null,
+   "display_match_confidence": 0,
+   "stack_depth": 1,
+   "score_reasons": [],
+   "evidence_ids": [
+    "ev_2aaba3f9d57006c0"
+   ],
+   "primary_event_date": "03/17/2026",
+   "review_flags": [
+    "parcel_resolution_review_required",
+    "matched_lead_review_reason:no_debtor_rule_for_doc_type"
    ],
    "enrichment_status": "UNENRICHED",
    "display_parcel": "",
