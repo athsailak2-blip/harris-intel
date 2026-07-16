@@ -247,55 +247,6 @@
   {
     "additional_owner_names": [],
     "aggregation_key": {
-      "canonical_doc_type": "lis_pendens",
-      "parcel_id": null,
-      "signal_type": "lis_pendens"
-    },
-    "base_record_id": "base_raw_04d027f1e3ce12a6",
-    "canonical_doc_type": "lis_pendens",
-    "confidence_status": "Confirmed",
-    "enrichment_status": "UNENRICHED",
-    "event_date": null,
-    "evidence_ids": [
-      "ev_04d027f1e3ce12a6"
-    ],
-    "filer_entity": "VILLAGES OF LANGHAM CREEK PROPERTY OWNERS ASSOCIATION INC | ALAS JOSE BERNARDO | ALVARENGA NELY PATRICIA",
-    "instrument_number": "RP-2026-57821",
-    "multi_owner_status": "SINGLE_OWNER",
-    "owner_count": 1,
-    "owner_name": "lis_pendens against unidentified party",
-    "owner_type": "UNKNOWN",
-    "owners": [
-      {
-        "confidence": null,
-        "is_primary": true,
-        "name": "lis_pendens against unidentified party",
-        "name_type": null,
-        "notes": null,
-        "resolution_status": "REVIEW_REQUIRED",
-        "role": "unresolved",
-        "source_field": null
-      }
-    ],
-    "parcel_resolution_status": "REVIEW_REQUIRED",
-    "primary_owner_name": "lis_pendens against unidentified party",
-    "property_refs": {
-      "case_number": "",
-      "legal_description": null,
-      "parcel_id": "HC-RP-2026-57821",
-      "situs_address": null
-    },
-    "raw_event_id": "raw_04d027f1e3ce12a6",
-    "recorded_date": "02/17/2026",
-    "review_reason": "expected_debtor_name_type DF missing",
-    "signal_type": "lis_pendens",
-    "source_id": "harris_clerk_real_property",
-    "source_role": "PRIMARY_EVENT_SOURCE",
-    "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-57821"
-  },
-  {
-    "additional_owner_names": [],
-    "aggregation_key": {
       "canonical_doc_type": "judgment_lien",
       "parcel_id": "HC-RP-2026-97400",
       "signal_type": "judgment_lien"
@@ -2403,55 +2354,6 @@
   {
     "additional_owner_names": [],
     "aggregation_key": {
-      "canonical_doc_type": "lis_pendens",
-      "parcel_id": null,
-      "signal_type": "lis_pendens"
-    },
-    "base_record_id": "base_raw_1bf72041bb951bcd",
-    "canonical_doc_type": "lis_pendens",
-    "confidence_status": "Confirmed",
-    "enrichment_status": "UNENRICHED",
-    "event_date": null,
-    "evidence_ids": [
-      "ev_1bf72041bb951bcd"
-    ],
-    "filer_entity": "BISMUTH BRIDGE PROPCO LLC | GRADIS LORVIN SAUL ALVARENGA | BISMUTH BRIDGE PROPCO LLC | GRADIS LORVIN SAUL ALVARENGA",
-    "instrument_number": "RP-2026-99831",
-    "multi_owner_status": "SINGLE_OWNER",
-    "owner_count": 1,
-    "owner_name": "lis_pendens against unidentified party",
-    "owner_type": "UNKNOWN",
-    "owners": [
-      {
-        "confidence": null,
-        "is_primary": true,
-        "name": "lis_pendens against unidentified party",
-        "name_type": null,
-        "notes": null,
-        "resolution_status": "REVIEW_REQUIRED",
-        "role": "unresolved",
-        "source_field": null
-      }
-    ],
-    "parcel_resolution_status": "REVIEW_REQUIRED",
-    "primary_owner_name": "lis_pendens against unidentified party",
-    "property_refs": {
-      "case_number": "",
-      "legal_description": null,
-      "parcel_id": "HC-RP-2026-99831",
-      "situs_address": null
-    },
-    "raw_event_id": "raw_1bf72041bb951bcd",
-    "recorded_date": "03/17/2026",
-    "review_reason": "expected_debtor_name_type DF missing",
-    "signal_type": "lis_pendens",
-    "source_id": "harris_clerk_real_property",
-    "source_role": "PRIMARY_EVENT_SOURCE",
-    "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-99831"
-  },
-  {
-    "additional_owner_names": [],
-    "aggregation_key": {
       "canonical_doc_type": "judgment_lien",
       "parcel_id": "HC-RP-2026-97212",
       "signal_type": "judgment_lien"
@@ -3632,55 +3534,6 @@
       "parcel_id": null,
       "signal_type": "lis_pendens"
     },
-    "base_record_id": "base_raw_2c1e02ee4db70efb",
-    "canonical_doc_type": "lis_pendens",
-    "confidence_status": "Confirmed",
-    "enrichment_status": "UNENRICHED",
-    "event_date": null,
-    "evidence_ids": [
-      "ev_2c1e02ee4db70efb"
-    ],
-    "filer_entity": "S-G II OWNERS ASSOCIATION INC | ARAUZ CARLOS L",
-    "instrument_number": "RP-2026-57515",
-    "multi_owner_status": "SINGLE_OWNER",
-    "owner_count": 1,
-    "owner_name": "lis_pendens against unidentified party",
-    "owner_type": "UNKNOWN",
-    "owners": [
-      {
-        "confidence": null,
-        "is_primary": true,
-        "name": "lis_pendens against unidentified party",
-        "name_type": null,
-        "notes": null,
-        "resolution_status": "REVIEW_REQUIRED",
-        "role": "unresolved",
-        "source_field": null
-      }
-    ],
-    "parcel_resolution_status": "REVIEW_REQUIRED",
-    "primary_owner_name": "lis_pendens against unidentified party",
-    "property_refs": {
-      "case_number": "",
-      "legal_description": null,
-      "parcel_id": "HC-RP-2026-57515",
-      "situs_address": null
-    },
-    "raw_event_id": "raw_2c1e02ee4db70efb",
-    "recorded_date": "02/17/2026",
-    "review_reason": "expected_debtor_name_type DF missing",
-    "signal_type": "lis_pendens",
-    "source_id": "harris_clerk_real_property",
-    "source_role": "PRIMARY_EVENT_SOURCE",
-    "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-57515"
-  },
-  {
-    "additional_owner_names": [],
-    "aggregation_key": {
-      "canonical_doc_type": "lis_pendens",
-      "parcel_id": null,
-      "signal_type": "lis_pendens"
-    },
     "base_record_id": "base_raw_2c5e7903e61178ec",
     "canonical_doc_type": "lis_pendens",
     "confidence_status": "Confirmed",
@@ -3771,55 +3624,6 @@
     "source_id": "harris_clerk_real_property",
     "source_role": "PRIMARY_EVENT_SOURCE",
     "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-98984"
-  },
-  {
-    "additional_owner_names": [],
-    "aggregation_key": {
-      "canonical_doc_type": "lis_pendens",
-      "parcel_id": null,
-      "signal_type": "lis_pendens"
-    },
-    "base_record_id": "base_raw_2dbcbd112b052419",
-    "canonical_doc_type": "lis_pendens",
-    "confidence_status": "Confirmed",
-    "enrichment_status": "UNENRICHED",
-    "event_date": null,
-    "evidence_ids": [
-      "ev_2dbcbd112b052419"
-    ],
-    "filer_entity": "OLDE OAKS COMMUNITY IMPROVEMENT ASSOCIATION INC | HOPKINS ENOLA M",
-    "instrument_number": "RP-2026-57541",
-    "multi_owner_status": "SINGLE_OWNER",
-    "owner_count": 1,
-    "owner_name": "lis_pendens against unidentified party",
-    "owner_type": "UNKNOWN",
-    "owners": [
-      {
-        "confidence": null,
-        "is_primary": true,
-        "name": "lis_pendens against unidentified party",
-        "name_type": null,
-        "notes": null,
-        "resolution_status": "REVIEW_REQUIRED",
-        "role": "unresolved",
-        "source_field": null
-      }
-    ],
-    "parcel_resolution_status": "REVIEW_REQUIRED",
-    "primary_owner_name": "lis_pendens against unidentified party",
-    "property_refs": {
-      "case_number": "",
-      "legal_description": null,
-      "parcel_id": "HC-RP-2026-57541",
-      "situs_address": null
-    },
-    "raw_event_id": "raw_2dbcbd112b052419",
-    "recorded_date": "02/17/2026",
-    "review_reason": "expected_debtor_name_type DF missing",
-    "signal_type": "lis_pendens",
-    "source_id": "harris_clerk_real_property",
-    "source_role": "PRIMARY_EVENT_SOURCE",
-    "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-57541"
   },
   {
     "additional_owner_names": [],
@@ -5543,55 +5347,6 @@
       "parcel_id": null,
       "signal_type": "lis_pendens"
     },
-    "base_record_id": "base_raw_3f1a545170e4e407",
-    "canonical_doc_type": "lis_pendens",
-    "confidence_status": "Confirmed",
-    "enrichment_status": "UNENRICHED",
-    "event_date": null,
-    "evidence_ids": [
-      "ev_3f1a545170e4e407"
-    ],
-    "filer_entity": "S-G II OWNERS ASSOCIATION INC | HERD GERALD",
-    "instrument_number": "RP-2026-57496",
-    "multi_owner_status": "SINGLE_OWNER",
-    "owner_count": 1,
-    "owner_name": "lis_pendens against unidentified party",
-    "owner_type": "UNKNOWN",
-    "owners": [
-      {
-        "confidence": null,
-        "is_primary": true,
-        "name": "lis_pendens against unidentified party",
-        "name_type": null,
-        "notes": null,
-        "resolution_status": "REVIEW_REQUIRED",
-        "role": "unresolved",
-        "source_field": null
-      }
-    ],
-    "parcel_resolution_status": "REVIEW_REQUIRED",
-    "primary_owner_name": "lis_pendens against unidentified party",
-    "property_refs": {
-      "case_number": "",
-      "legal_description": null,
-      "parcel_id": "HC-RP-2026-57496",
-      "situs_address": null
-    },
-    "raw_event_id": "raw_3f1a545170e4e407",
-    "recorded_date": "02/17/2026",
-    "review_reason": "expected_debtor_name_type DF missing",
-    "signal_type": "lis_pendens",
-    "source_id": "harris_clerk_real_property",
-    "source_role": "PRIMARY_EVENT_SOURCE",
-    "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-57496"
-  },
-  {
-    "additional_owner_names": [],
-    "aggregation_key": {
-      "canonical_doc_type": "lis_pendens",
-      "parcel_id": null,
-      "signal_type": "lis_pendens"
-    },
     "base_record_id": "base_raw_3fdfb0cdf60879cb",
     "canonical_doc_type": "lis_pendens",
     "confidence_status": "Confirmed",
@@ -6417,55 +6172,6 @@
     "source_id": "harris_clerk_real_property",
     "source_role": "PRIMARY_EVENT_SOURCE",
     "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-97484"
-  },
-  {
-    "additional_owner_names": [],
-    "aggregation_key": {
-      "canonical_doc_type": "lis_pendens",
-      "parcel_id": null,
-      "signal_type": "lis_pendens"
-    },
-    "base_record_id": "base_raw_4772555a3530fdd8",
-    "canonical_doc_type": "lis_pendens",
-    "confidence_status": "Confirmed",
-    "enrichment_status": "UNENRICHED",
-    "event_date": null,
-    "evidence_ids": [
-      "ev_4772555a3530fdd8"
-    ],
-    "filer_entity": "HERNANDEZ CARLOS ENRIQUE | HERNANDEZ JORGE LUIS",
-    "instrument_number": "RP-2026-57176",
-    "multi_owner_status": "SINGLE_OWNER",
-    "owner_count": 1,
-    "owner_name": "lis_pendens against unidentified party",
-    "owner_type": "UNKNOWN",
-    "owners": [
-      {
-        "confidence": null,
-        "is_primary": true,
-        "name": "lis_pendens against unidentified party",
-        "name_type": null,
-        "notes": null,
-        "resolution_status": "REVIEW_REQUIRED",
-        "role": "unresolved",
-        "source_field": null
-      }
-    ],
-    "parcel_resolution_status": "REVIEW_REQUIRED",
-    "primary_owner_name": "lis_pendens against unidentified party",
-    "property_refs": {
-      "case_number": "",
-      "legal_description": null,
-      "parcel_id": "HC-RP-2026-57176",
-      "situs_address": null
-    },
-    "raw_event_id": "raw_4772555a3530fdd8",
-    "recorded_date": "02/17/2026",
-    "review_reason": "expected_debtor_name_type DF missing",
-    "signal_type": "lis_pendens",
-    "source_id": "harris_clerk_real_property",
-    "source_role": "PRIMARY_EVENT_SOURCE",
-    "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-57176"
   },
   {
     "additional_owner_names": [],
@@ -8332,55 +8038,6 @@
   {
     "additional_owner_names": [],
     "aggregation_key": {
-      "canonical_doc_type": "warranty_deed",
-      "parcel_id": null,
-      "signal_type": "warranty_deed"
-    },
-    "base_record_id": "base_raw_5c9ba9758ac0f9e5",
-    "canonical_doc_type": "warranty_deed",
-    "confidence_status": "Confirmed",
-    "enrichment_status": "UNENRICHED",
-    "event_date": null,
-    "evidence_ids": [
-      "ev_5c9ba9758ac0f9e5"
-    ],
-    "filer_entity": null,
-    "instrument_number": "RP-2026-99819",
-    "multi_owner_status": "SINGLE_OWNER",
-    "owner_count": 1,
-    "owner_name": "warranty_deed against unidentified party",
-    "owner_type": "UNKNOWN",
-    "owners": [
-      {
-        "confidence": null,
-        "is_primary": true,
-        "name": "warranty_deed against unidentified party",
-        "name_type": null,
-        "notes": null,
-        "resolution_status": "REVIEW_REQUIRED",
-        "role": "unresolved",
-        "source_field": null
-      }
-    ],
-    "parcel_resolution_status": "REVIEW_REQUIRED",
-    "primary_owner_name": "warranty_deed against unidentified party",
-    "property_refs": {
-      "case_number": "",
-      "legal_description": null,
-      "parcel_id": "HC-RP-2026-99819",
-      "situs_address": null
-    },
-    "raw_event_id": "raw_5c9ba9758ac0f9e5",
-    "recorded_date": "03/17/2026",
-    "review_reason": "no_debtor_rule_for_doc_type",
-    "signal_type": "warranty_deed",
-    "source_id": "harris_clerk_real_property",
-    "source_role": "PRIMARY_EVENT_SOURCE",
-    "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-99819"
-  },
-  {
-    "additional_owner_names": [],
-    "aggregation_key": {
       "canonical_doc_type": "judgment_lien",
       "parcel_id": "HC-RP-2026-99974",
       "signal_type": "judgment_lien"
@@ -9512,55 +9169,6 @@
       "parcel_id": null,
       "signal_type": "lis_pendens"
     },
-    "base_record_id": "base_raw_68b4fabb5fd32674",
-    "canonical_doc_type": "lis_pendens",
-    "confidence_status": "Confirmed",
-    "enrichment_status": "UNENRICHED",
-    "event_date": null,
-    "evidence_ids": [
-      "ev_68b4fabb5fd32674"
-    ],
-    "filer_entity": "MILLER GREG | NORTHSTONE BUILDERS LLC | MILLER GREG | NORTHSTONE BUILDERS LLC",
-    "instrument_number": "RP-2026-9982",
-    "multi_owner_status": "SINGLE_OWNER",
-    "owner_count": 1,
-    "owner_name": "lis_pendens against unidentified party",
-    "owner_type": "UNKNOWN",
-    "owners": [
-      {
-        "confidence": null,
-        "is_primary": true,
-        "name": "lis_pendens against unidentified party",
-        "name_type": null,
-        "notes": null,
-        "resolution_status": "REVIEW_REQUIRED",
-        "role": "unresolved",
-        "source_field": null
-      }
-    ],
-    "parcel_resolution_status": "REVIEW_REQUIRED",
-    "primary_owner_name": "lis_pendens against unidentified party",
-    "property_refs": {
-      "case_number": "",
-      "legal_description": null,
-      "parcel_id": "HC-RP-2026-9982",
-      "situs_address": null
-    },
-    "raw_event_id": "raw_68b4fabb5fd32674",
-    "recorded_date": "01/12/2026",
-    "review_reason": "expected_debtor_name_type DF missing",
-    "signal_type": "lis_pendens",
-    "source_id": "harris_clerk_real_property",
-    "source_role": "PRIMARY_EVENT_SOURCE",
-    "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-9982"
-  },
-  {
-    "additional_owner_names": [],
-    "aggregation_key": {
-      "canonical_doc_type": "lis_pendens",
-      "parcel_id": null,
-      "signal_type": "lis_pendens"
-    },
     "base_record_id": "base_raw_68cf2ec23884cf9b",
     "canonical_doc_type": "lis_pendens",
     "confidence_status": "Confirmed",
@@ -10680,55 +10288,6 @@
     "source_id": "harris_clerk_real_property",
     "source_role": "PRIMARY_EVENT_SOURCE",
     "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-97744"
-  },
-  {
-    "additional_owner_names": [],
-    "aggregation_key": {
-      "canonical_doc_type": "lis_pendens",
-      "parcel_id": null,
-      "signal_type": "lis_pendens"
-    },
-    "base_record_id": "base_raw_76e9e26759bdeee0",
-    "canonical_doc_type": "lis_pendens",
-    "confidence_status": "Confirmed",
-    "enrichment_status": "UNENRICHED",
-    "event_date": null,
-    "evidence_ids": [
-      "ev_76e9e26759bdeee0"
-    ],
-    "filer_entity": "CANYON VILLAGE AT PARK LAKES PROPERTY OWNERS ASSOCIATION INC | DIBBLE BRITTNY",
-    "instrument_number": "RP-2026-57514",
-    "multi_owner_status": "SINGLE_OWNER",
-    "owner_count": 1,
-    "owner_name": "lis_pendens against unidentified party",
-    "owner_type": "UNKNOWN",
-    "owners": [
-      {
-        "confidence": null,
-        "is_primary": true,
-        "name": "lis_pendens against unidentified party",
-        "name_type": null,
-        "notes": null,
-        "resolution_status": "REVIEW_REQUIRED",
-        "role": "unresolved",
-        "source_field": null
-      }
-    ],
-    "parcel_resolution_status": "REVIEW_REQUIRED",
-    "primary_owner_name": "lis_pendens against unidentified party",
-    "property_refs": {
-      "case_number": "",
-      "legal_description": null,
-      "parcel_id": "HC-RP-2026-57514",
-      "situs_address": null
-    },
-    "raw_event_id": "raw_76e9e26759bdeee0",
-    "recorded_date": "02/17/2026",
-    "review_reason": "expected_debtor_name_type DF missing",
-    "signal_type": "lis_pendens",
-    "source_id": "harris_clerk_real_property",
-    "source_role": "PRIMARY_EVENT_SOURCE",
-    "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-57514"
   },
   {
     "additional_owner_names": [],
@@ -12350,55 +11909,6 @@
   {
     "additional_owner_names": [],
     "aggregation_key": {
-      "canonical_doc_type": "lis_pendens",
-      "parcel_id": null,
-      "signal_type": "lis_pendens"
-    },
-    "base_record_id": "base_raw_8beafd81be2f6573",
-    "canonical_doc_type": "lis_pendens",
-    "confidence_status": "Confirmed",
-    "enrichment_status": "UNENRICHED",
-    "event_date": null,
-    "evidence_ids": [
-      "ev_8beafd81be2f6573"
-    ],
-    "filer_entity": "MISSION BEND CIVIC ASSOCIATION INC | PARADA MANGLIO DANILO | PARADA MARIA M ESCOTO",
-    "instrument_number": "RP-2026-579",
-    "multi_owner_status": "SINGLE_OWNER",
-    "owner_count": 1,
-    "owner_name": "lis_pendens against unidentified party",
-    "owner_type": "UNKNOWN",
-    "owners": [
-      {
-        "confidence": null,
-        "is_primary": true,
-        "name": "lis_pendens against unidentified party",
-        "name_type": null,
-        "notes": null,
-        "resolution_status": "REVIEW_REQUIRED",
-        "role": "unresolved",
-        "source_field": null
-      }
-    ],
-    "parcel_resolution_status": "REVIEW_REQUIRED",
-    "primary_owner_name": "lis_pendens against unidentified party",
-    "property_refs": {
-      "case_number": "",
-      "legal_description": null,
-      "parcel_id": "HC-RP-2026-579",
-      "situs_address": null
-    },
-    "raw_event_id": "raw_8beafd81be2f6573",
-    "recorded_date": "01/02/2026",
-    "review_reason": "expected_debtor_name_type DF missing",
-    "signal_type": "lis_pendens",
-    "source_id": "harris_clerk_real_property",
-    "source_role": "PRIMARY_EVENT_SOURCE",
-    "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-579"
-  },
-  {
-    "additional_owner_names": [],
-    "aggregation_key": {
       "canonical_doc_type": "final_judgment_of_foreclosure",
       "parcel_id": null,
       "signal_type": "final_judgment_of_foreclosure"
@@ -13428,55 +12938,6 @@
   {
     "additional_owner_names": [],
     "aggregation_key": {
-      "canonical_doc_type": "lis_pendens",
-      "parcel_id": null,
-      "signal_type": "lis_pendens"
-    },
-    "base_record_id": "base_raw_9309e7718846822d",
-    "canonical_doc_type": "lis_pendens",
-    "confidence_status": "Confirmed",
-    "enrichment_status": "UNENRICHED",
-    "event_date": null,
-    "evidence_ids": [
-      "ev_9309e7718846822d"
-    ],
-    "filer_entity": "BELMONT PARK ASSOCIATION | ONOFRE ALBERT I",
-    "instrument_number": "RP-2026-57893",
-    "multi_owner_status": "SINGLE_OWNER",
-    "owner_count": 1,
-    "owner_name": "lis_pendens against unidentified party",
-    "owner_type": "UNKNOWN",
-    "owners": [
-      {
-        "confidence": null,
-        "is_primary": true,
-        "name": "lis_pendens against unidentified party",
-        "name_type": null,
-        "notes": null,
-        "resolution_status": "REVIEW_REQUIRED",
-        "role": "unresolved",
-        "source_field": null
-      }
-    ],
-    "parcel_resolution_status": "REVIEW_REQUIRED",
-    "primary_owner_name": "lis_pendens against unidentified party",
-    "property_refs": {
-      "case_number": "",
-      "legal_description": null,
-      "parcel_id": "HC-RP-2026-57893",
-      "situs_address": null
-    },
-    "raw_event_id": "raw_9309e7718846822d",
-    "recorded_date": "02/17/2026",
-    "review_reason": "expected_debtor_name_type DF missing",
-    "signal_type": "lis_pendens",
-    "source_id": "harris_clerk_real_property",
-    "source_role": "PRIMARY_EVENT_SOURCE",
-    "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-57893"
-  },
-  {
-    "additional_owner_names": [],
-    "aggregation_key": {
       "canonical_doc_type": "judgment_lien",
       "parcel_id": "HC-RP-2026-99973",
       "signal_type": "judgment_lien"
@@ -14502,55 +13963,6 @@
     "source_id": "harris_clerk_real_property",
     "source_role": "PRIMARY_EVENT_SOURCE",
     "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-83760"
-  },
-  {
-    "additional_owner_names": [],
-    "aggregation_key": {
-      "canonical_doc_type": "lis_pendens",
-      "parcel_id": null,
-      "signal_type": "lis_pendens"
-    },
-    "base_record_id": "base_raw_a034c28820af03bc",
-    "canonical_doc_type": "lis_pendens",
-    "confidence_status": "Confirmed",
-    "enrichment_status": "UNENRICHED",
-    "event_date": null,
-    "evidence_ids": [
-      "ev_a034c28820af03bc"
-    ],
-    "filer_entity": "FRANKS PRISCILLA | MAYFIELD DARRELL",
-    "instrument_number": "RP-2026-57817",
-    "multi_owner_status": "SINGLE_OWNER",
-    "owner_count": 1,
-    "owner_name": "lis_pendens against unidentified party",
-    "owner_type": "UNKNOWN",
-    "owners": [
-      {
-        "confidence": null,
-        "is_primary": true,
-        "name": "lis_pendens against unidentified party",
-        "name_type": null,
-        "notes": null,
-        "resolution_status": "REVIEW_REQUIRED",
-        "role": "unresolved",
-        "source_field": null
-      }
-    ],
-    "parcel_resolution_status": "REVIEW_REQUIRED",
-    "primary_owner_name": "lis_pendens against unidentified party",
-    "property_refs": {
-      "case_number": "",
-      "legal_description": null,
-      "parcel_id": "HC-RP-2026-57817",
-      "situs_address": null
-    },
-    "raw_event_id": "raw_a034c28820af03bc",
-    "recorded_date": "02/17/2026",
-    "review_reason": "expected_debtor_name_type DF missing",
-    "signal_type": "lis_pendens",
-    "source_id": "harris_clerk_real_property",
-    "source_role": "PRIMARY_EVENT_SOURCE",
-    "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-57817"
   },
   {
     "additional_owner_names": [],
@@ -16078,55 +15490,6 @@
       "parcel_id": null,
       "signal_type": "lis_pendens"
     },
-    "base_record_id": "base_raw_b6551adddf7d23a7",
-    "canonical_doc_type": "lis_pendens",
-    "confidence_status": "Confirmed",
-    "enrichment_status": "UNENRICHED",
-    "event_date": null,
-    "evidence_ids": [
-      "ev_b6551adddf7d23a7"
-    ],
-    "filer_entity": "S-G II OWNERS ASSOCIATION INC | GOINES GERALD",
-    "instrument_number": "RP-2026-57517",
-    "multi_owner_status": "SINGLE_OWNER",
-    "owner_count": 1,
-    "owner_name": "lis_pendens against unidentified party",
-    "owner_type": "UNKNOWN",
-    "owners": [
-      {
-        "confidence": null,
-        "is_primary": true,
-        "name": "lis_pendens against unidentified party",
-        "name_type": null,
-        "notes": null,
-        "resolution_status": "REVIEW_REQUIRED",
-        "role": "unresolved",
-        "source_field": null
-      }
-    ],
-    "parcel_resolution_status": "REVIEW_REQUIRED",
-    "primary_owner_name": "lis_pendens against unidentified party",
-    "property_refs": {
-      "case_number": "",
-      "legal_description": null,
-      "parcel_id": "HC-RP-2026-57517",
-      "situs_address": null
-    },
-    "raw_event_id": "raw_b6551adddf7d23a7",
-    "recorded_date": "02/17/2026",
-    "review_reason": "expected_debtor_name_type DF missing",
-    "signal_type": "lis_pendens",
-    "source_id": "harris_clerk_real_property",
-    "source_role": "PRIMARY_EVENT_SOURCE",
-    "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-57517"
-  },
-  {
-    "additional_owner_names": [],
-    "aggregation_key": {
-      "canonical_doc_type": "lis_pendens",
-      "parcel_id": null,
-      "signal_type": "lis_pendens"
-    },
     "base_record_id": "base_raw_b8648953cccfaf81",
     "canonical_doc_type": "lis_pendens",
     "confidence_status": "Confirmed",
@@ -16805,55 +16168,6 @@
     "source_id": "harris_clerk_real_property",
     "source_role": "PRIMARY_EVENT_SOURCE",
     "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-97767"
-  },
-  {
-    "additional_owner_names": [],
-    "aggregation_key": {
-      "canonical_doc_type": "warranty_deed",
-      "parcel_id": null,
-      "signal_type": "warranty_deed"
-    },
-    "base_record_id": "base_raw_bf7eb6d75e610df7",
-    "canonical_doc_type": "warranty_deed",
-    "confidence_status": "Confirmed",
-    "enrichment_status": "UNENRICHED",
-    "event_date": null,
-    "evidence_ids": [
-      "ev_bf7eb6d75e610df7"
-    ],
-    "filer_entity": null,
-    "instrument_number": "RP-2026-9983",
-    "multi_owner_status": "SINGLE_OWNER",
-    "owner_count": 1,
-    "owner_name": "warranty_deed against unidentified party",
-    "owner_type": "UNKNOWN",
-    "owners": [
-      {
-        "confidence": null,
-        "is_primary": true,
-        "name": "warranty_deed against unidentified party",
-        "name_type": null,
-        "notes": null,
-        "resolution_status": "REVIEW_REQUIRED",
-        "role": "unresolved",
-        "source_field": null
-      }
-    ],
-    "parcel_resolution_status": "REVIEW_REQUIRED",
-    "primary_owner_name": "warranty_deed against unidentified party",
-    "property_refs": {
-      "case_number": "",
-      "legal_description": null,
-      "parcel_id": "HC-RP-2026-9983",
-      "situs_address": null
-    },
-    "raw_event_id": "raw_bf7eb6d75e610df7",
-    "recorded_date": "01/12/2026",
-    "review_reason": "no_debtor_rule_for_doc_type",
-    "signal_type": "warranty_deed",
-    "source_id": "harris_clerk_real_property",
-    "source_role": "PRIMARY_EVENT_SOURCE",
-    "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-9983"
   },
   {
     "additional_owner_names": [],
@@ -17589,55 +16903,6 @@
     "source_id": "harris_clerk_real_property",
     "source_role": "PRIMARY_EVENT_SOURCE",
     "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-97046"
-  },
-  {
-    "additional_owner_names": [],
-    "aggregation_key": {
-      "canonical_doc_type": "warranty_deed",
-      "parcel_id": null,
-      "signal_type": "warranty_deed"
-    },
-    "base_record_id": "base_raw_c494dc5e0492260a",
-    "canonical_doc_type": "warranty_deed",
-    "confidence_status": "Confirmed",
-    "enrichment_status": "UNENRICHED",
-    "event_date": null,
-    "evidence_ids": [
-      "ev_c494dc5e0492260a"
-    ],
-    "filer_entity": null,
-    "instrument_number": "RP-2026-99829",
-    "multi_owner_status": "SINGLE_OWNER",
-    "owner_count": 1,
-    "owner_name": "warranty_deed against unidentified party",
-    "owner_type": "UNKNOWN",
-    "owners": [
-      {
-        "confidence": null,
-        "is_primary": true,
-        "name": "warranty_deed against unidentified party",
-        "name_type": null,
-        "notes": null,
-        "resolution_status": "REVIEW_REQUIRED",
-        "role": "unresolved",
-        "source_field": null
-      }
-    ],
-    "parcel_resolution_status": "REVIEW_REQUIRED",
-    "primary_owner_name": "warranty_deed against unidentified party",
-    "property_refs": {
-      "case_number": "",
-      "legal_description": null,
-      "parcel_id": "HC-RP-2026-99829",
-      "situs_address": null
-    },
-    "raw_event_id": "raw_c494dc5e0492260a",
-    "recorded_date": "03/17/2026",
-    "review_reason": "no_debtor_rule_for_doc_type",
-    "signal_type": "warranty_deed",
-    "source_id": "harris_clerk_real_property",
-    "source_role": "PRIMARY_EVENT_SOURCE",
-    "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-99829"
   },
   {
     "additional_owner_names": [],
@@ -18471,55 +17736,6 @@
     "source_id": "harris_clerk_real_property",
     "source_role": "PRIMARY_EVENT_SOURCE",
     "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-99328"
-  },
-  {
-    "additional_owner_names": [],
-    "aggregation_key": {
-      "canonical_doc_type": "lis_pendens",
-      "parcel_id": null,
-      "signal_type": "lis_pendens"
-    },
-    "base_record_id": "base_raw_cd1798b62e63ddbc",
-    "canonical_doc_type": "lis_pendens",
-    "confidence_status": "Confirmed",
-    "enrichment_status": "UNENRICHED",
-    "event_date": null,
-    "evidence_ids": [
-      "ev_cd1798b62e63ddbc"
-    ],
-    "filer_entity": "S-G II OWNERS ASSOCIATION INC | BEATON TARA",
-    "instrument_number": "RP-2026-57526",
-    "multi_owner_status": "SINGLE_OWNER",
-    "owner_count": 1,
-    "owner_name": "lis_pendens against unidentified party",
-    "owner_type": "UNKNOWN",
-    "owners": [
-      {
-        "confidence": null,
-        "is_primary": true,
-        "name": "lis_pendens against unidentified party",
-        "name_type": null,
-        "notes": null,
-        "resolution_status": "REVIEW_REQUIRED",
-        "role": "unresolved",
-        "source_field": null
-      }
-    ],
-    "parcel_resolution_status": "REVIEW_REQUIRED",
-    "primary_owner_name": "lis_pendens against unidentified party",
-    "property_refs": {
-      "case_number": "",
-      "legal_description": null,
-      "parcel_id": "HC-RP-2026-57526",
-      "situs_address": null
-    },
-    "raw_event_id": "raw_cd1798b62e63ddbc",
-    "recorded_date": "02/17/2026",
-    "review_reason": "expected_debtor_name_type DF missing",
-    "signal_type": "lis_pendens",
-    "source_id": "harris_clerk_real_property",
-    "source_role": "PRIMARY_EVENT_SOURCE",
-    "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-57526"
   },
   {
     "additional_owner_names": [],
@@ -20047,104 +19263,6 @@
       "parcel_id": null,
       "signal_type": "lis_pendens"
     },
-    "base_record_id": "base_raw_e0daa49934d47868",
-    "canonical_doc_type": "lis_pendens",
-    "confidence_status": "Confirmed",
-    "enrichment_status": "UNENRICHED",
-    "event_date": null,
-    "evidence_ids": [
-      "ev_e0daa49934d47868"
-    ],
-    "filer_entity": "S-G II OWNERS ASSOCIATION INC | GHOBAR CHRIS AMIR",
-    "instrument_number": "RP-2026-57523",
-    "multi_owner_status": "SINGLE_OWNER",
-    "owner_count": 1,
-    "owner_name": "lis_pendens against unidentified party",
-    "owner_type": "UNKNOWN",
-    "owners": [
-      {
-        "confidence": null,
-        "is_primary": true,
-        "name": "lis_pendens against unidentified party",
-        "name_type": null,
-        "notes": null,
-        "resolution_status": "REVIEW_REQUIRED",
-        "role": "unresolved",
-        "source_field": null
-      }
-    ],
-    "parcel_resolution_status": "REVIEW_REQUIRED",
-    "primary_owner_name": "lis_pendens against unidentified party",
-    "property_refs": {
-      "case_number": "",
-      "legal_description": null,
-      "parcel_id": "HC-RP-2026-57523",
-      "situs_address": null
-    },
-    "raw_event_id": "raw_e0daa49934d47868",
-    "recorded_date": "02/17/2026",
-    "review_reason": "expected_debtor_name_type DF missing",
-    "signal_type": "lis_pendens",
-    "source_id": "harris_clerk_real_property",
-    "source_role": "PRIMARY_EVENT_SOURCE",
-    "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-57523"
-  },
-  {
-    "additional_owner_names": [],
-    "aggregation_key": {
-      "canonical_doc_type": "warranty_deed",
-      "parcel_id": null,
-      "signal_type": "warranty_deed"
-    },
-    "base_record_id": "base_raw_e1be63483bce0819",
-    "canonical_doc_type": "warranty_deed",
-    "confidence_status": "Confirmed",
-    "enrichment_status": "UNENRICHED",
-    "event_date": null,
-    "evidence_ids": [
-      "ev_e1be63483bce0819"
-    ],
-    "filer_entity": null,
-    "instrument_number": "RP-2026-99820",
-    "multi_owner_status": "SINGLE_OWNER",
-    "owner_count": 1,
-    "owner_name": "warranty_deed against unidentified party",
-    "owner_type": "UNKNOWN",
-    "owners": [
-      {
-        "confidence": null,
-        "is_primary": true,
-        "name": "warranty_deed against unidentified party",
-        "name_type": null,
-        "notes": null,
-        "resolution_status": "REVIEW_REQUIRED",
-        "role": "unresolved",
-        "source_field": null
-      }
-    ],
-    "parcel_resolution_status": "REVIEW_REQUIRED",
-    "primary_owner_name": "warranty_deed against unidentified party",
-    "property_refs": {
-      "case_number": "",
-      "legal_description": null,
-      "parcel_id": "HC-RP-2026-99820",
-      "situs_address": null
-    },
-    "raw_event_id": "raw_e1be63483bce0819",
-    "recorded_date": "03/17/2026",
-    "review_reason": "no_debtor_rule_for_doc_type",
-    "signal_type": "warranty_deed",
-    "source_id": "harris_clerk_real_property",
-    "source_role": "PRIMARY_EVENT_SOURCE",
-    "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-99820"
-  },
-  {
-    "additional_owner_names": [],
-    "aggregation_key": {
-      "canonical_doc_type": "lis_pendens",
-      "parcel_id": null,
-      "signal_type": "lis_pendens"
-    },
     "base_record_id": "base_raw_e1dc07cd4de9fda2",
     "canonical_doc_type": "lis_pendens",
     "confidence_status": "Confirmed",
@@ -21476,7 +20594,7 @@
     "evidence_ids": [
       "ev_f1018fa88a186ce5"
     ],
-    "filer_entity": "VILLAGES OF CYPRESS LAKES COMMUNITY ASSOCIATION INC | HERRERA FRANK | HERRERA SANDEE R",
+    "filer_entity": null,
     "instrument_number": "RP-2026-57921",
     "multi_owner_status": "SINGLE_OWNER",
     "owner_count": 1,
@@ -22146,55 +21264,6 @@
     "source_id": "harris_clerk_real_property",
     "source_role": "PRIMARY_EVENT_SOURCE",
     "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-98659"
-  },
-  {
-    "additional_owner_names": [],
-    "aggregation_key": {
-      "canonical_doc_type": "lis_pendens",
-      "parcel_id": null,
-      "signal_type": "lis_pendens"
-    },
-    "base_record_id": "base_raw_fc5766e35539801b",
-    "canonical_doc_type": "lis_pendens",
-    "confidence_status": "Confirmed",
-    "enrichment_status": "UNENRICHED",
-    "event_date": null,
-    "evidence_ids": [
-      "ev_fc5766e35539801b"
-    ],
-    "filer_entity": "LISMORE LAKE HOMEOWNERS ASSOCIATION INC | BOULOS VICTORIA | HLAIHEL GEORGE J",
-    "instrument_number": "RP-2026-57488",
-    "multi_owner_status": "SINGLE_OWNER",
-    "owner_count": 1,
-    "owner_name": "lis_pendens against unidentified party",
-    "owner_type": "UNKNOWN",
-    "owners": [
-      {
-        "confidence": null,
-        "is_primary": true,
-        "name": "lis_pendens against unidentified party",
-        "name_type": null,
-        "notes": null,
-        "resolution_status": "REVIEW_REQUIRED",
-        "role": "unresolved",
-        "source_field": null
-      }
-    ],
-    "parcel_resolution_status": "REVIEW_REQUIRED",
-    "primary_owner_name": "lis_pendens against unidentified party",
-    "property_refs": {
-      "case_number": "",
-      "legal_description": null,
-      "parcel_id": "HC-RP-2026-57488",
-      "situs_address": null
-    },
-    "raw_event_id": "raw_fc5766e35539801b",
-    "recorded_date": "02/17/2026",
-    "review_reason": "expected_debtor_name_type DF missing",
-    "signal_type": "lis_pendens",
-    "source_id": "harris_clerk_real_property",
-    "source_role": "PRIMARY_EVENT_SOURCE",
-    "source_url": "https://www.cclerk.hctx.net/applications/websearch/RP.aspx?doc=RP-2026-57488"
   },
   {
     "additional_owner_names": [],
